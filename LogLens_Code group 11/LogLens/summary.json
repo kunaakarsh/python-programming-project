@@ -1,0 +1,54 @@
+{
+  "total_entries": 1186,
+  "health_score": 81.2,
+  "levels": {
+    "INFO": 856,
+    "WARNING": 179,
+    "ERROR": 151
+  },
+  "errors_by_module": {
+    "api": 57,
+    "auth": 29,
+    "database": 25,
+    "payment": 25,
+    "cache": 15
+  },
+  "top_error_messages": {
+    "Request payload validation failed": 25,
+    "Upstream service returned 503": 18,
+    "Rate limit exceeded for client": 14,
+    "Gateway timeout while charging card": 13,
+    "Payment callback signature mismatch": 12
+  },
+  "errors_by_hour": {
+    "0": 2,
+    "1": 0,
+    "2": 0,
+    "3": 1,
+    "4": 0,
+    "5": 0,
+    "6": 3,
+    "7": 6,
+    "8": 9,
+    "9": 12,
+    "10": 12,
+    "11": 7,
+    "12": 5,
+    "13": 9,
+    "14": 19,
+    "15": 21,
+    "16": 12,
+    "17": 8,
+    "18": 4,
+    "19": 7,
+    "20": 5,
+    "21": 3,
+    "22": 5,
+    "23": 1
+  },
+  "busiest_hours": {
+    "14": 100,
+    "10": 95,
+    "9": 92
+  }
+}

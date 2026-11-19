@@ -1,0 +1,1200 @@
+2026-11-10 01:53:47 | INFO | api | 10.0.4.57 | Cache refreshed
+2026-11-10 02:16:52 | INFO | payment | 10.0.2.58 | Scheduled job finished
+2026-11-10 03:35:45 | INFO | cache | 10.0.1.55 | Cache refreshed
+2026-11-10 04:09:12 | INFO | api | 10.0.2.53 | Scheduled job finished
+2026-11-10 04:48:47 | WARNING | api | 10.0.5.43 | Response time degraded
+2026-11-10 05:04:58 | WARNING | auth | 10.0.6.49 | Disk usage above 80%
+2026-11-10 06:02:26 | WARNING | database | 10.0.2.41 | Retrying request
+2026-11-10 06:24:54 | INFO | payment | 10.0.5.32 | Scheduled job finished
+2026-11-10 06:29:41 | INFO | auth | 10.0.2.58 | Health check passed
+2026-11-10 06:35:31 | INFO | auth | 10.0.4.30 | Scheduled job finished
+2026-11-10 06:36:37 | INFO | database | 10.0.5.32 | Health check passed
+2026-11-10 06:45:09 | INFO | auth | 10.0.5.32 | User session started
+2026-11-10 06:49:37 | INFO | payment | 10.0.6.42 | Request completed in 497 ms
+2026-11-10 07:24:17 | INFO | database | 10.0.5.53 | Request completed in 57 ms
+2026-11-10 07:32:40 | INFO | api | 10.0.4.57 | User session started
+2026-11-10 07:35:12 | ERROR | cache | 10.0.4.57 | Redis eviction rate high
+2026-11-10 07:51:02 | WARNING | database | 10.0.2.8 | Response time degraded
+2026-11-10 08:04:17 | INFO | api | 10.0.5.32 | Scheduled job finished
+2026-11-10 08:04:17 | INFO | auth | 10.0.5.53 | Request completed in 711 ms
+2026-11-10 08:06:45 | INFO | database | 10.0.5.53 | Health check passed
+2026-11-10 08:07:15 | INFO | api | 10.0.1.55 | Cache refreshed
+2026-11-10 08:09:17 | ERROR | database | 10.0.1.4 | Slow query exceeded 2000 ms
+2026-11-10 08:09:47 | WARNING | api | 10.0.4.30 | Retrying request
+2026-11-10 08:12:25 | INFO | api | 10.0.5.56 | Health check passed
+2026-11-10 08:13:20 | WARNING | auth | 10.0.5.6 | Disk usage above 80%
+2026-11-10 08:16:35 | ERROR | api | 10.0.5.14 | Request payload validation failed
+2026-11-10 08:17:46 | ERROR | auth | 10.0.2.41 | Login failed: invalid token
+2026-11-10 08:18:22 | ERROR | payment | 10.0.1.51 | Gateway timeout while charging card
+2026-11-10 08:23:35 | INFO | api | 10.0.2.7 | Cache refreshed
+2026-11-10 08:25:32 | INFO | auth | 10.0.5.56 | Request completed in 29 ms
+2026-11-10 08:30:58 | INFO | api | 10.0.4.57 | User session started
+2026-11-10 08:35:43 | WARNING | api | 10.0.2.53 | Response time degraded
+2026-11-10 08:36:47 | INFO | database | 10.0.5.43 | Health check passed
+2026-11-10 08:37:20 | WARNING | api | 10.0.2.8 | Disk usage above 80%
+2026-11-10 08:39:10 | INFO | api | 10.0.4.21 | Health check passed
+2026-11-10 08:39:29 | ERROR | cache | 10.0.4.22 | Redis eviction rate high
+2026-11-10 08:44:59 | INFO | api | 10.0.1.55 | Health check passed
+----- truncated entry ----
+2026-11-10 08:55:22 | INFO | auth | 10.0.5.56 | User session started
+2026-11-10 09:02:24 | INFO | database | 10.0.2.41 | Cache refreshed
+2026-11-10 09:04:47 | INFO | api | 10.0.2.41 | User session started
+2026-11-10 09:16:43 | INFO | auth | 10.0.2.53 | Health check passed
+2026-11-10 09:18:09 | INFO | database | 10.0.5.43 | Health check passed
+2026-11-10 09:29:01 | INFO | api | 10.0.4.30 | User session started
+2026-11-10 09:33:26 | INFO | api | 10.0.4.30 | User session started
+2026-11-10 09:33:49 | INFO | api | 10.0.2.8 | Scheduled job finished
+2026-11-10 09:37:03 | WARNING | cache | 10.0.5.14 | High memory usage 85%
+2026-11-10 09:39:29 | INFO | auth | 10.0.5.14 | User session started
+2026-11-10 09:41:51 | WARNING | api | 10.0.1.51 | Retrying request
+2026-11-10 09:47:42 | INFO | auth | 10.0.4.22 | Health check passed
+2026-11-10 09:52:26 | ERROR | auth | 10.0.1.40 | Session expired for user
+2026-11-10 09:57:42 | INFO | api | 10.0.1.4 | User session started
+2026-11-10 09:59:05 | INFO | auth | 10.0.2.41 | Cache refreshed
+2026-11-10 10:00:05 | ERROR | api | 10.0.4.57 | Request payload validation failed
+2026-11-10 10:03:00 | INFO | database | 10.0.4.21 | User session started
+2026-11-10 10:09:59 | INFO | database | 10.0.4.22 | User session started
+2026-11-10 10:18:15 | INFO | api | 10.0.2.7 | Cache refreshed
+2026-11-10 10:19:31 | ERROR | api | 10.0.1.51 | Rate limit exceeded for client
+2026-11-10 10:20:48 | INFO | database | 10.0.4.21 | Cache refreshed
+2026-11-10 10:26:47 | INFO | payment | 10.0.6.42 | Scheduled job finished
+2026-11-10 10:33:51 | INFO | api | 10.0.4.21 | User session started
+2026-11-10 10:34:17 | INFO | api | 10.0.4.30 | Request completed in 247 ms
+2026-11-10 10:34:38 | ERROR | database | 10.0.2.41 | Slow query exceeded 2000 ms
+2026-11-10 10:34:52 | INFO | auth | 10.0.1.55 | Scheduled job finished
+2026-11-10 10:35:38 | INFO | database | 10.0.1.51 | Scheduled job finished
+2026-11-10 10:43:49 | INFO | auth | 10.0.5.14 | Health check passed
+2026-11-10 10:46:00 | INFO | database | 10.0.5.53 | Scheduled job finished
+2026-11-10 10:48:03 | INFO | api | 10.0.5.6 | Cache refreshed
+2026-11-10 10:52:10 | INFO | api | 10.0.2.53 | Health check passed
+2026-11-10 10:53:30 | INFO | database | 10.0.6.49 | Request completed in 590 ms
+2026-11-10 10:54:20 | INFO | api | 10.0.1.51 | Scheduled job finished
+2026-11-10 11:12:51 | INFO | auth | 10.0.2.7 | Scheduled job finished
+2026-11-10 11:13:55 | INFO | api | 10.0.1.4 | Health check passed
+2026-11-10 11:14:01 | INFO | database | 10.0.6.42 | Scheduled job finished
+2026-11-10 11:15:22 | INFO | database | 10.0.1.40 | Health check passed
+2026-11-10 11:18:07 | INFO | database | 10.0.4.21 | Scheduled job finished
+2026-11-10 11:19:35 | INFO | api | 10.0.4.57 | User session started
+2026-11-10 11:24:41 | INFO | api | 10.0.2.53 | Cache refreshed
+2026-11-10 11:25:48 | INFO | api | 10.0.5.56 | Scheduled job finished
+2026-11-10 11:33:43 | INFO | database | 10.0.6.42 | Scheduled job finished
+2026-11-10 11:36:23 | INFO | database | 10.0.6.42 | Health check passed
+2026-11-10 11:40:37 | INFO | database | 10.0.2.58 | Scheduled job finished
+2026-11-10 11:42:58 | INFO | database | 10.0.1.40 | Scheduled job finished
+2026-11-10 11:46:17 | INFO | api | 10.0.6.41 | Cache refreshed
+2026-11-10 11:48:54 | INFO | payment | 10.0.4.22 | Scheduled job finished
+2026-11-10 12:07:01 | INFO | auth | 10.0.5.53 | User session started
+2026-11-10 12:12:12 | WARNING | auth | 10.0.6.42 | High memory usage 85%
+2026-11-10 12:14:35 | WARNING | api | 10.0.6.41 | Disk usage above 80%
+2026-11-10 12:16:20 | INFO | cache | 10.0.4.22 | Request completed in 744 ms
+2026-11-10 12:34:18 | WARNING | payment | 10.0.2.58 | Disk usage above 80%
+2026-11-10 12:38:21 | INFO | api | 10.0.6.49 | Cache refreshed
+2026-11-10 12:41:26 | INFO | database | 10.0.6.41 | Request completed in 474 ms
+2026-11-10 12:43:20 | ERROR | auth | 10.0.5.32 | Password retry limit reached
+2026-11-10 12:46:29 | ERROR | payment | 10.0.6.49 | Gateway timeout while charging card
+2026-11-10 12:53:32 | INFO | auth | 10.0.2.53 | User session started
+2026-11-10 12:54:37 | INFO | auth | 10.0.4.22 | Scheduled job finished
+2026-11-10 12:56:46 | INFO | api | 10.0.1.55 | Scheduled job finished
+2026-11-10 13:01:14 | INFO | database | 10.0.2.40 | Request completed in 512 ms
+2026-11-10 13:02:24 | WARNING | auth | 10.0.4.30 | Response time degraded
+2026-11-10 13:03:59 | INFO | payment | 10.0.1.4 | Scheduled job finished
+2026-11-10 13:09:11 | INFO | api | 10.0.2.41 | Request completed in 649 ms
+2026-11-10 13:13:16 | WARNING | auth | 10.0.1.55 | High memory usage 85%
+2026-11-10 13:16:27 | INFO | api | 10.0.1.55 | User session started
+2026-11-10 13:22:17 | INFO | payment | 10.0.1.4 | Health check passed
+2026-11-10 13:23:19 | INFO | payment | 10.0.5.14 | User session started
+2026-11-10 13:26:48 | INFO | api | 10.0.4.21 | Scheduled job finished
+2026-11-10 13:26:58 | INFO | auth | 10.0.6.42 | Scheduled job finished
+2026-11-10 13:31:48 | WARNING | database | 10.0.2.8 | High memory usage 85%
+2026-11-10 13:34:22 | INFO | api | 10.0.5.14 | Request completed in 184 ms
+2026-11-10 13:38:09 | WARNING | api | 10.0.1.55 | Retrying request
+2026-11-10 13:57:27 | INFO | payment | 10.0.2.58 | Scheduled job finished
+2026-11-10 14:03:20 | INFO | database | 10.0.2.53 | Request completed in 112 ms
+2026-11-10 14:04:47 | INFO | database | 10.0.4.30 | Request completed in 184 ms
+2026-11-10 14:11:06 | WARNING | database | 10.0.2.7 | Retrying request
+2026-11-10 14:17:47 | INFO | api | 10.0.5.56 | User session started
+2026-11-10 14:20:09 | INFO | database | 10.0.4.30 | Scheduled job finished
+2026-11-10 14:23:42 | WARNING | database | 10.0.1.4 | High memory usage 85%
+2026-11-10 14:31:13 | INFO | database | 10.0.4.30 | Health check passed
+2026-11-10 14:39:05 | INFO | database | 10.0.2.40 | Health check passed
+2026-11-10 14:39:29 | INFO | auth | 10.0.5.6 | Cache refreshed
+2026-11-10 14:47:02 | WARNING | payment | 10.0.5.43 | High memory usage 85%
+2026-11-10 14:50:29 | INFO | payment | 10.0.2.53 | Request completed in 672 ms
+2026-11-10 14:52:49 | INFO | api | 10.0.4.57 | Cache refreshed
+2026-11-10 14:55:53 | INFO | database | 10.0.5.6 | User session started
+2026-11-10 15:06:31 | INFO | database | 10.0.1.51 | Scheduled job finished
+2026-11-10 15:09:53 | ERROR | auth | 10.0.4.57 | Login failed: invalid token
+2026-11-10 15:09:59 | INFO | cache | 10.0.5.56 | Cache refreshed
+2026-11-10 15:13:24 | ERROR | auth | 10.0.1.4 | Login failed: invalid token
+2026-11-10 15:27:39 | INFO | auth | 10.0.2.58 | Cache refreshed
+2026-11-10 15:31:44 | INFO | database | 10.0.2.58 | Health check passed
+2026-11-10 15:38:13 | ERROR | auth | 10.0.5.32 | Session expired for user
+2026-11-10 15:39:30 | INFO | api | 10.0.4.22 | Scheduled job finished
+2026-11-10 15:48:52 | INFO | api | 10.0.2.53 | Request completed in 41 ms
+2026-11-10 15:50:36 | INFO | payment | 10.0.5.56 | Request completed in 558 ms
+2026-11-10 16:02:51 | INFO | auth | 10.0.2.58 | User session started
+2026-11-10 16:04:23 | INFO | api | 10.0.4.57 | Request completed in 235 ms
+2026-11-10 16:05:34 | ERROR | api | 10.0.2.8 | Rate limit exceeded for client
+2026-11-10 16:07:05 | INFO | database | 10.0.5.6 | Cache refreshed
+2026-11-10 16:10:56 | INFO | api | 10.0.6.49 | Request completed in 777 ms
+2026-11-10 16:14:05 | INFO | database | 10.0.6.41 | User session started
+2026-11-10 16:14:53 | INFO | auth | 10.0.4.30 | Health check passed
+2026-11-10 16:19:32 | ERROR | payment | 10.0.1.4 | Payment callback signature mismatch
+2026-11-10 16:41:07 | INFO | cache | 10.0.4.22 | User session started
+2026-11-10 16:48:37 | WARNING | api | 10.0.6.49 | Disk usage above 80%
+2026-11-10 17:04:10 | INFO | auth | 10.0.4.22 | Scheduled job finished
+2026-11-10 17:05:09 | INFO | api | 10.0.2.58 | Request completed in 667 ms
+2026-11-10 17:17:21 | INFO | database | 10.0.2.41 | Scheduled job finished
+2026-11-10 17:22:51 | INFO | database | 10.0.2.7 | Request completed in 258 ms
+2026-11-10 17:35:17 | INFO | payment | 10.0.5.56 | Scheduled job finished
+2026-11-10 17:36:29 | INFO | api | 10.0.2.7 | Request completed in 278 ms
+2026-11-10 17:37:56 | INFO | cache | 10.0.5.32 | User session started
+2026-11-10 17:38:13 | INFO | payment | 10.0.2.40 | User session started
+2026-11-10 17:47:23 | WARNING | database | 10.0.1.55 | Disk usage above 80%
+2026-11-10 17:51:49 | INFO | auth | 10.0.5.32 | Request completed in 431 ms
+2026-11-10 17:55:25 | INFO | api | 10.0.5.32 | User session started
+2026-11-10 17:59:21 | INFO | api | 10.0.4.21 | Cache refreshed
+2026-11-10 18:00:39 | INFO | api | 10.0.2.58 | Cache refreshed
+2026-11-10 18:28:08 | ERROR | api | 10.0.4.30 | Upstream service returned 503
+2026-11-10 18:31:51 | INFO | auth | 10.0.4.30 | Cache refreshed
+2026-11-10 18:52:51 | INFO | database | 10.0.2.8 | Health check passed
+2026-11-10 18:53:24 | INFO | database | 10.0.5.43 | Cache refreshed
+2026-11-10 18:58:10 | WARNING | api | 10.0.4.30 | Disk usage above 80%
+2026-11-10 19:06:26 | WARNING | database | 10.0.2.8 | Disk usage above 80%
+2026-11-10 19:07:52 | ERROR | cache | 10.0.6.42 | Redis eviction rate high
+2026-11-10 19:10:31 | ERROR | database | 10.0.1.4 | Connection timeout to db-primary
+2026-11-10 19:10:55 | INFO | database | 10.0.2.41 | Scheduled job finished
+2026-11-10 19:18:18 | WARNING | api | 10.0.4.21 | High memory usage 85%
+2026-11-10 19:32:03 | INFO | payment | 10.0.1.40 | Cache refreshed
+2026-11-10 19:35:18 | INFO | auth | 10.0.5.43 | Scheduled job finished
+2026-11-10 19:39:49 | INFO | cache | 10.0.5.56 | Health check passed
+2026-11-10 19:56:56 | INFO | payment | 10.0.2.41 | User session started
+2026-11-10 19:57:01 | INFO | api | 10.0.2.7 | Cache refreshed
+2026-11-10 19:58:26 | INFO | api | 10.0.2.40 | Health check passed
+2026-11-10 20:22:43 | INFO | payment | 10.0.5.56 | Health check passed
+2026-11-10 20:28:06 | INFO | payment | 10.0.6.49 | Scheduled job finished
+2026-11-10 20:36:43 | WARNING | payment | 10.0.4.30 | Disk usage above 80%
+2026-11-10 20:42:15 | ERROR | cache | 10.0.5.56 | Redis eviction rate high
+2026-11-10 20:42:16 | INFO | api | 10.0.6.42 | Cache refreshed
+2026-11-10 20:53:04 | INFO | payment | 10.0.1.4 | Health check passed
+2026-11-10 21:16:58 | INFO | api | 10.0.1.4 | User session started
+2026-11-10 21:30:31 | INFO | api | 10.0.5.6 | Cache refreshed
+2026-11-10 21:31:08 | INFO | auth | 10.0.6.41 | Cache refreshed
+2026-11-10 22:38:32 | WARNING | database | 10.0.1.40 | Response time degraded
+2026-11-10 22:52:42 | INFO | database | 10.0.2.58 | Health check passed
+2026-11-10 22:56:11 | INFO | database | 10.0.4.22 | Scheduled job finished
+2026-11-10 22:58:45 | INFO | api | 10.0.4.57 | User session started
+2026-11-10 23:03:18 | INFO | auth | 10.0.4.30 | Scheduled job finished
+2026-11-10 23:09:28 | INFO | database | 10.0.5.14 | Request completed in 714 ms
+2026-11-10 23:41:00 | ERROR | auth | 10.0.1.40 | Session expired for user
+2026-11-11 00:53:02 | ERROR | api | 10.0.5.43 | Upstream service returned 503
+2026-11-11 01:20:05 | INFO | api | 10.0.1.51 | Scheduled job finished
+2026-11-11 04:19:25 | INFO | api | 10.0.4.30 | User session started
+2026-11-11 04:21:36 | INFO | api | 10.0.2.40 | Request completed in 775 ms
+2026-11-11 04:31:57 | INFO | api | 10.0.2.53 | Health check passed
+2026-11-11 05:01:49 | WARNING | auth | 10.0.5.43 | Retrying request
+2026-11-11 05:30:50 | WARNING | cache | 10.0.1.4 | Disk usage above 80%
+2026-11-11 05:52:15 | INFO | payment | 10.0.5.6 | Cache refreshed
+2026-11-11 06:00:11 | ERROR | database | 10.0.2.7 | Connection timeout to db-primary
+2026-11-11 06:04:51 | INFO | api | 10.0.6.49 | Cache refreshed
+2026-11-11 06:11:18 | WARNING | api | 10.0.5.43 | High memory usage 85%
+2026-11-11 06:16:23 | WARNING | api | 10.0.2.7 | Disk usage above 80%
+2026-11-11 06:30:08 | INFO | auth | 10.0.5.14 | Request completed in 528 ms
+2026-11-11 07:02:37 | INFO | payment | 10.0.5.56 | Scheduled job finished
+2026-11-11 07:04:42 | INFO | api | 10.0.5.43 | Scheduled job finished
+2026-11-11 07:18:07 | INFO | database | 10.0.1.40 | Health check passed
+2026-11-11 07:20:14 | INFO | auth | 10.0.4.30 | Request completed in 822 ms
+2026-11-11 07:28:17 | INFO | payment | 10.0.2.40 | Scheduled job finished
+2026-11-11 07:28:29 | ERROR | api | 10.0.5.32 | Upstream service returned 503
+2026-11-11 07:43:09 | ERROR | api | 10.0.5.32 | Rate limit exceeded for client
+@@##corrupt###
+2026-11-11 08:47:48 | INFO | api | 10.0.4.30 | Scheduled job finished
+2026-11-11 08:53:38 | INFO | api | 10.0.1.40 | Scheduled job finished
+2026-11-11 08:58:41 | WARNING | payment | 10.0.5.56 | High memory usage 85%
+2026-11-11 09:00:15 | INFO | api | 10.0.2.41 | Scheduled job finished
+2026-11-11 09:02:40 | INFO | cache | 10.0.5.56 | Health check passed
+2026-11-11 09:03:30 | INFO | cache | 10.0.2.53 | Scheduled job finished
+2026-11-11 09:12:16 | INFO | payment | 10.0.4.57 | Request completed in 776 ms
+2026-11-11 09:15:43 | INFO | api | 10.0.1.4 | User session started
+2026-11-11 09:16:54 | INFO | database | 10.0.6.42 | Health check passed
+2026-11-11 09:22:05 | INFO | auth | 10.0.2.8 | User session started
+2026-11-11 09:29:26 | WARNING | database | 10.0.1.4 | Response time degraded
+2026-11-11 09:38:08 | WARNING | database | 10.0.4.30 | High memory usage 85%
+2026-11-11 09:38:36 | INFO | cache | 10.0.5.43 | Scheduled job finished
+2026-11-11 09:41:20 | ERROR | payment | 10.0.5.14 | Payment callback signature mismatch
+2026-11-11 09:51:38 | INFO | payment | 10.0.2.8 | Cache refreshed
+2026-11-11 09:58:24 | INFO | database | 10.0.1.40 | User session started
+2026-11-11 10:06:31 | INFO | api | 10.0.4.22 | Request completed in 593 ms
+2026-11-11 10:08:08 | INFO | auth | 10.0.4.57 | Health check passed
+2026-11-11 10:15:10 | INFO | database | 10.0.2.53 | User session started
+2026-11-11 10:20:25 | ERROR | database | 10.0.4.30 | Deadlock detected on orders table
+2026-11-11 10:20:32 | INFO | payment | 10.0.4.30 | User session started
+2026-11-11 10:27:14 | INFO | database | 10.0.4.22 | Cache refreshed
+2026-11-11 10:31:54 | INFO | database | 10.0.5.43 | User session started
+2026-11-11 10:31:59 | INFO | api | 10.0.1.40 | Cache refreshed
+2026-11-11 10:33:50 | INFO | api | 10.0.5.53 | Scheduled job finished
+2026-11-11 10:35:02 | INFO | payment | 10.0.6.41 | Request completed in 154 ms
+2026-11-11 10:40:33 | INFO | auth | 10.0.2.53 | Health check passed
+2026-11-11 10:51:42 | ERROR | api | 10.0.4.30 | Rate limit exceeded for client
+2026-11-11 10:51:48 | INFO | auth | 10.0.5.32 | Cache refreshed
+2026-11-11 10:54:39 | ERROR | api | 10.0.2.40 | Upstream service returned 503
+2026-11-11 10:58:04 | INFO | auth | 10.0.4.30 | Health check passed
+2026-11-11 10:59:12 | WARNING | api | 10.0.1.4 | Disk usage above 80%
+2026-11-11 10:59:19 | INFO | database | 10.0.1.55 | User session started
+2026-11-11 11:01:23 | INFO | database | 10.0.4.21 | User session started
+2026-11-11 11:01:43 | INFO | database | 10.0.5.43 | Request completed in 401 ms
+2026-11-11 11:02:09 | WARNING | api | 10.0.5.32 | High memory usage 85%
+2026-11-11 11:05:16 | INFO | auth | 10.0.1.4 | Cache refreshed
+2026-11-11 11:13:15 | WARNING | database | 10.0.5.32 | Disk usage above 80%
+2026-11-11 11:16:15 | INFO | payment | 10.0.1.40 | Request completed in 177 ms
+2026-11-11 11:19:23 | WARNING | api | 10.0.5.14 | Response time degraded
+2026-11-11 11:25:03 | INFO | auth | 10.0.1.55 | User session started
+2026-11-11 11:25:46 | INFO | payment | 10.0.5.6 | User session started
+2026-11-11 11:26:50 | INFO | payment | 10.0.2.58 | Cache refreshed
+2026-11-11 11:29:54 | INFO | database | 10.0.4.30 | Health check passed
+2026-11-11 11:31:22 | INFO | database | 10.0.5.56 | Health check passed
+2026-11-11 11:40:28 | INFO | auth | 10.0.4.30 | Request completed in 560 ms
+2026-11-11 11:52:00 | INFO | payment | 10.0.6.41 | Request completed in 443 ms
+2026-11-11 11:53:00 | INFO | database | 10.0.5.32 | Cache refreshed
+2026-11-11 11:56:22 | ERROR | auth | 10.0.2.53 | Password retry limit reached
+2026-11-11 11:56:51 | INFO | api | 10.0.2.58 | Health check passed
+2026-11-11 12:19:28 | INFO | api | 10.0.2.7 | User session started
+2026-11-11 12:19:51 | INFO | auth | 10.0.5.56 | User session started
+2026-11-11 12:20:02 | INFO | database | 10.0.1.4 | Health check passed
+2026-11-11 12:27:23 | INFO | api | 10.0.2.53 | Cache refreshed
+2026-11-11 12:32:08 | WARNING | cache | 10.0.5.56 | Disk usage above 80%
+2026-11-11 12:32:22 | ERROR | database | 10.0.1.40 | Slow query exceeded 2000 ms
+2026-11-11 13:05:39 | WARNING | database | 10.0.6.41 | High memory usage 85%
+2026-11-11 13:06:54 | INFO | api | 10.0.4.21 | Request completed in 430 ms
+2026-11-11 13:13:06 | INFO | auth | 10.0.2.58 | Cache refreshed
+2026-11-11 13:13:41 | INFO | database | 10.0.5.56 | Cache refreshed
+2026-11-11 13:15:28 | INFO | api | 10.0.5.32 | Scheduled job finished
+2026-11-11 13:26:48 | INFO | api | 10.0.2.58 | Scheduled job finished
+2026-11-11 13:28:46 | INFO | payment | 10.0.1.55 | Cache refreshed
+2026-11-11 13:42:27 | INFO | cache | 10.0.6.42 | Health check passed
+2026-11-11 13:47:19 | WARNING | auth | 10.0.4.57 | Disk usage above 80%
+2026-11-11 13:53:43 | INFO | payment | 10.0.2.41 | Request completed in 805 ms
+2026-11-11 13:54:22 | INFO | database | 10.0.2.8 | Scheduled job finished
+2026-11-11 14:08:05 | INFO | database | 10.0.5.53 | Health check passed
+2026-11-11 14:10:35 | INFO | cache | 10.0.5.56 | Scheduled job finished
+2026-11-11 14:13:13 | INFO | payment | 10.0.4.57 | Health check passed
+2026-11-11 14:17:41 | INFO | database | 10.0.6.49 | Request completed in 849 ms
+2026-11-11 14:22:54 | INFO | database | 10.0.1.55 | User session started
+2026-11-11 14:23:06 | ERROR | payment | 10.0.2.40 | Payment callback signature mismatch
+2026-11-11 14:24:54 | INFO | database | 10.0.2.7 | Request completed in 837 ms
+2026-11-11 14:39:09 | INFO | api | 10.0.4.21 | Cache refreshed
+2026-11-11 14:43:40 | WARNING | auth | 10.0.2.8 | Response time degraded
+2026-11-11 14:44:54 | INFO | auth | 10.0.5.32 | User session started
+2026-11-11 14:48:04 | ERROR | payment | 10.0.4.57 | Gateway timeout while charging card
+2026-11-11 14:54:21 | INFO | api | 10.0.1.40 | User session started
+2026-11-11 15:04:05 | INFO | api | 10.0.1.4 | Cache refreshed
+2026-11-11 15:04:28 | INFO | api | 10.0.5.43 | Request completed in 493 ms
+2026-11-11 15:07:35 | WARNING | database | 10.0.5.56 | Disk usage above 80%
+2026-11-11 15:11:33 | WARNING | auth | 10.0.2.40 | High memory usage 85%
+2026-11-11 15:18:59 | INFO | auth | 10.0.2.58 | Health check passed
+2026-11-11 15:31:34 | INFO | database | 10.0.6.41 | Health check passed
+2026-11-11 15:31:41 | INFO | api | 10.0.5.32 | Cache refreshed
+2026-11-11 15:36:45 | INFO | database | 10.0.5.32 | User session started
+2026-11-11 15:49:23 | INFO | api | 10.0.1.55 | Health check passed
+2026-11-11 15:51:57 | INFO | payment | 10.0.1.4 | User session started
+
+2026-11-11 16:04:22 | INFO | database | 10.0.2.58 | User session started
+----- truncated entry ----
+2026-11-11 16:18:14 | INFO | auth | 10.0.2.41 | Cache refreshed
+2026-11-11 16:18:28 | INFO | api | 10.0.2.8 | Health check passed
+2026-11-11 16:26:30 | INFO | database | 10.0.1.4 | Health check passed
+2026-11-11 16:26:32 | INFO | api | 10.0.5.43 | Scheduled job finished
+2026-11-11 16:28:11 | INFO | api | 10.0.5.56 | User session started
+2026-11-11 16:29:27 | ERROR | api | 10.0.5.32 | Rate limit exceeded for client
+2026-11-11 16:33:51 | INFO | api | 10.0.5.56 | Request completed in 837 ms
+2026-11-11 16:43:35 | INFO | database | 10.0.5.32 | Cache refreshed
+2026-11-11 16:48:34 | ERROR | database | 10.0.1.51 | Connection timeout to db-primary
+2026-11-11 16:49:22 | INFO | auth | 10.0.4.30 | User session started
+2026-11-11 17:03:13 | INFO | auth | 10.0.5.6 | Cache refreshed
+2026-11-11 17:05:41 | INFO | api | 10.0.4.30 | Health check passed
+2026-11-11 17:18:33 | INFO | api | 10.0.5.6 | Cache refreshed
+2026-11-11 17:18:55 | INFO | payment | 10.0.6.42 | Request completed in 835 ms
+2026-11-11 17:19:05 | INFO | auth | 10.0.4.57 | Request completed in 623 ms
+2026-11-11 17:21:43 | INFO | api | 10.0.5.14 | Health check passed
+2026-11-11 17:23:49 | INFO | payment | 10.0.1.40 | Scheduled job finished
+2026-11-11 17:29:39 | ERROR | database | 10.0.2.53 | Connection timeout to db-primary
+2026-11-11 17:30:22 | ERROR | api | 10.0.5.6 | Upstream service returned 503
+2026-11-11 17:40:43 | INFO | api | 10.0.2.41 | Scheduled job finished
+2026-11-11 17:41:59 | INFO | database | 10.0.4.21 | Request completed in 271 ms
+2026-11-11 17:46:05 | INFO | auth | 10.0.2.8 | Health check passed
+2026-11-11 17:47:57 | INFO | api | 10.0.1.55 | Cache refreshed
+2026-11-11 17:50:04 | WARNING | api | 10.0.6.42 | Response time degraded
+2026-11-11 17:51:32 | INFO | auth | 10.0.1.51 | Scheduled job finished
+2026-11-11 17:51:46 | INFO | auth | 10.0.2.53 | Request completed in 576 ms
+2026-11-11 18:06:25 | INFO | payment | 10.0.1.4 | Scheduled job finished
+2026-11-11 18:07:56 | WARNING | api | 10.0.2.8 | Disk usage above 80%
+2026-11-11 18:19:19 | ERROR | auth | 10.0.1.40 | Session expired for user
+2026-11-11 18:19:50 | INFO | database | 10.0.5.14 | User session started
+2026-11-11 18:25:31 | INFO | cache | 10.0.1.55 | Health check passed
+2026-11-11 18:35:05 | ERROR | payment | 10.0.2.7 | Payment callback signature mismatch
+2026-11-11 18:50:38 | INFO | api | 10.0.2.58 | Scheduled job finished
+2026-11-11 18:53:53 | INFO | api | 10.0.5.6 | User session started
+2026-11-11 18:56:03 | INFO | api | 10.0.5.53 | User session started
+2026-11-11 18:57:57 | WARNING | cache | 10.0.1.4 | Response time degraded
+2026-11-11 19:00:38 | INFO | api | 10.0.5.32 | Scheduled job finished
+2026-11-11 19:04:31 | INFO | database | 10.0.4.21 | User session started
+2026-11-11 19:04:31 | INFO | database | 10.0.6.49 | Scheduled job finished
+2026-11-11 19:19:21 | INFO | api | 10.0.4.22 | Scheduled job finished
+2026-11-11 19:26:10 | INFO | payment | 10.0.1.55 | Cache refreshed
+2026-11-11 19:34:55 | INFO | database | 10.0.5.14 | User session started
+2026-11-11 19:45:58 | WARNING | cache | 10.0.2.40 | High memory usage 85%
+2026-11-11 20:15:08 | INFO | api | 10.0.2.40 | Request completed in 217 ms
+2026-11-11 20:22:34 | INFO | payment | 10.0.4.21 | Health check passed
+2026-11-11 20:23:38 | INFO | payment | 10.0.1.4 | Health check passed
+2026-11-11 20:33:55 | WARNING | api | 10.0.2.7 | Response time degraded
+2026-11-11 20:46:52 | ERROR | api | 10.0.2.7 | Request payload validation failed
+2026-11-11 20:49:50 | WARNING | auth | 10.0.4.22 | Response time degraded
+2026-11-11 20:54:27 | ERROR | database | 10.0.2.53 | Slow query exceeded 2000 ms
+2026-11-11 21:48:58 | ERROR | api | 10.0.5.43 | Request payload validation failed
+2026-11-11 22:04:27 | INFO | payment | 10.0.5.43 | Scheduled job finished
+2026-11-11 22:32:09 | WARNING | auth | 10.0.1.40 | High memory usage 85%
+2026-11-11 23:37:35 | INFO | payment | 10.0.2.8 | Cache refreshed
+2026-11-12 00:25:50 | INFO | auth | 10.0.2.41 | Cache refreshed
+2026-11-12 02:14:15 | INFO | database | 10.0.2.40 | Request completed in 899 ms
+2026-11-12 03:40:09 | INFO | api | 10.0.6.49 | Request completed in 704 ms
+2026-11-12 04:51:42 | INFO | database | 10.0.2.7 | Health check passed
+2026-11-12 05:13:26 | INFO | api | 10.0.6.41 | Scheduled job finished
+2026-11-12 05:25:31 | WARNING | api | 10.0.5.6 | Retrying request
+2026-11-12 06:17:23 | INFO | cache | 10.0.2.40 | Request completed in 36 ms
+2026-11-12 06:30:14 | INFO | api | 10.0.6.49 | User session started
+2026-11-12 06:32:15 | INFO | payment | 10.0.5.14 | Request completed in 856 ms
+2026-11-12 07:21:22 | ERROR | auth | 10.0.4.30 | Login failed: invalid token
+2026-11-12 07:32:40 | INFO | api | 10.0.5.43 | Scheduled job finished
+2026-11-12 07:34:03 | ERROR | database | 10.0.5.43 | Deadlock detected on orders table
+2026-11-12 07:45:14 | INFO | auth | 10.0.6.49 | Cache refreshed
+2026-11-12 08:00:55 | INFO | database | 10.0.1.55 | Scheduled job finished
+2026-11-12 08:14:17 | INFO | api | 10.0.4.22 | Request completed in 203 ms
+2026-11-12 08:19:00 | WARNING | payment | 10.0.6.49 | Retrying request
+2026-11-12 08:19:57 | INFO | api | 10.0.5.14 | Scheduled job finished
+2026-11-12 08:31:08 | WARNING | auth | 10.0.5.56 | High memory usage 85%
+2026-11-12 08:36:26 | WARNING | database | 10.0.1.4 | Retrying request
+2026-11-12 08:44:46 | INFO | api | 10.0.2.7 | Scheduled job finished
+2026-11-12 08:51:28 | INFO | database | 10.0.5.14 | Cache refreshed
+2026-11-12 08:53:08 | INFO | payment | 10.0.5.53 | Request completed in 505 ms
+2026-11-12 08:55:01 | INFO | payment | 10.0.4.22 | Scheduled job finished
+2026-11-12 08:55:32 | INFO | api | 10.0.5.56 | Health check passed
+2026-11-12 09:00:25 | INFO | cache | 10.0.2.58 | Scheduled job finished
+2026-11-12 09:06:53 | ERROR | payment | 10.0.1.4 | Gateway timeout while charging card
+2026-11-12 09:08:21 | INFO | api | 10.0.1.4 | Scheduled job finished
+2026-11-12 09:17:33 | INFO | database | 10.0.4.21 | Cache refreshed
+2026-11-12 09:20:06 | INFO | database | 10.0.5.32 | Cache refreshed
+2026-11-12 09:20:45 | INFO | cache | 10.0.1.55 | Health check passed
+2026-11-12 09:22:10 | INFO | api | 10.0.2.41 | Health check passed
+2026-11-12 09:25:38 | ERROR | api | 10.0.6.41 | Request payload validation failed
+2026-11-12 09:37:26 | INFO | database | 10.0.5.14 | User session started
+2026-11-12 09:40:06 | INFO | auth | 10.0.1.4 | User session started
+2026-11-12 09:51:29 | ERROR | payment | 10.0.5.53 | Payment callback signature mismatch
+2026-11-12 10:01:19 | INFO | api | 10.0.1.55 | Scheduled job finished
+2026-11-12 10:03:37 | INFO | auth | 10.0.5.53 | Health check passed
+2026-11-12 10:08:38 | WARNING | cache | 10.0.2.40 | Retrying request
+2026-11-12 10:11:03 | WARNING | auth | 10.0.1.51 | Response time degraded
+2026-11-12 10:16:21 | ERROR | database | 10.0.5.32 | Connection timeout to db-primary
+2026-11-12 10:19:44 | INFO | database | 10.0.4.30 | Scheduled job finished
+2026-11-12 10:24:13 | INFO | api | 10.0.5.43 | Request completed in 590 ms
+2026-11-12 10:26:23 | INFO | api | 10.0.5.14 | Health check passed
+2026-11-12 10:30:38 | INFO | api | 10.0.4.30 | Scheduled job finished
+2026-11-12 10:36:53 | ERROR | payment | 10.0.1.51 | Payment callback signature mismatch
+2026-11-12 10:46:59 | INFO | api | 10.0.1.4 | Request completed in 736 ms
+2026-11-12 10:51:07 | WARNING | payment | 10.0.4.30 | High memory usage 85%
+2026-11-12 10:57:55 | INFO | auth | 10.0.2.8 | User session started
+2026-11-12 10:59:07 | INFO | auth | 10.0.5.14 | Cache refreshed
+2026-11-12 11:06:43 | WARNING | api | 10.0.2.41 | Retrying request
+2026-11-12 11:23:09 | ERROR | auth | 10.0.5.43 | Password retry limit reached
+2026-11-12 11:30:14 | WARNING | database | 10.0.5.32 | Response time degraded
+2026-11-12 11:33:12 | INFO | auth | 10.0.5.53 | Cache refreshed
+2026-11-12 11:34:44 | WARNING | auth | 10.0.2.53 | Disk usage above 80%
+2026-11-12 11:43:06 | INFO | auth | 10.0.2.8 | Scheduled job finished
+2026-11-12 11:55:34 | INFO | payment | 10.0.4.22 | Request completed in 785 ms
+2026-11-12 12:04:05 | INFO | database | 10.0.6.49 | Cache refreshed
+2026-11-12 12:06:16 | INFO | api | 10.0.2.8 | Cache refreshed
+2026-11-12 12:08:32 | WARNING | database | 10.0.5.56 | Response time degraded
+2026-11-12 12:18:24 | INFO | database | 10.0.2.58 | Health check passed
+2026-11-12 12:26:15 | INFO | cache | 10.0.1.40 | Request completed in 375 ms
+2026-11-12 12:28:30 | INFO | database | 10.0.2.8 | Health check passed
+2026-11-12 12:34:10 | INFO | api | 10.0.2.8 | Cache refreshed
+2026-11-12 12:45:09 | INFO | auth | 10.0.1.40 | Request completed in 363 ms
+2026-11-12 12:56:16 | INFO | api | 10.0.6.49 | Cache refreshed
+2026-11-12 12:57:36 | INFO | cache | 10.0.2.41 | Health check passed
+----- truncated entry ----
+2026-11-12 13:03:40 | WARNING | database | 10.0.4.30 | Response time degraded
+2026-11-12 13:09:55 | INFO | database | 10.0.6.42 | User session started
+2026-11-12 13:17:31 | INFO | database | 10.0.4.57 | Cache refreshed
+2026-11-12 13:18:16 | ERROR | cache | 10.0.5.56 | Redis eviction rate high
+2026-11-12 13:28:03 | INFO | api | 10.0.5.56 | Scheduled job finished
+2026-11-12 13:31:18 | INFO | auth | 10.0.1.40 | Cache refreshed
+2026-11-12 13:31:22 | INFO | payment | 10.0.4.30 | Request completed in 482 ms
+2026-11-12 13:38:27 | ERROR | cache | 10.0.2.8 | Redis eviction rate high
+2026-11-12 13:39:09 | WARNING | database | 10.0.5.53 | High memory usage 85%
+2026-11-12 13:40:41 | INFO | api | 10.0.2.41 | Scheduled job finished
+2026-11-12 13:41:17 | INFO | database | 10.0.2.41 | User session started
+2026-11-12 13:43:39 | INFO | auth | 10.0.4.30 | User session started
+2026-11-12 13:47:38 | INFO | database | 10.0.2.41 | Request completed in 831 ms
+2026-11-12 13:50:15 | WARNING | database | 10.0.2.41 | High memory usage 85%
+2026-11-12 13:57:28 | ERROR | auth | 10.0.2.7 | Login failed: invalid token
+2026-11-12 14:01:29 | INFO | api | 10.0.2.58 | User session started
+2026-11-12 14:03:41 | WARNING | database | 10.0.1.4 | High memory usage 85%
+2026-11-12 14:13:28 | INFO | database | 10.0.4.30 | Scheduled job finished
+2026-11-12 14:23:48 | INFO | cache | 10.0.5.53 | Scheduled job finished
+2026-11-12 14:25:54 | ERROR | api | 10.0.2.40 | Upstream service returned 503
+2026-11-12 14:29:21 | INFO | payment | 10.0.2.8 | Health check passed
+2026-11-12 14:32:30 | INFO | auth | 10.0.5.43 | Cache refreshed
+2026-11-12 14:41:02 | ERROR | cache | 10.0.6.49 | Cache miss ratio above threshold
+2026-11-12 14:43:34 | INFO | auth | 10.0.5.56 | Cache refreshed
+2026-11-12 14:45:12 | INFO | api | 10.0.5.43 | Health check passed
+2026-11-12 14:46:27 | ERROR | api | 10.0.2.40 | Upstream service returned 503
+2026-11-12 14:46:39 | INFO | database | 10.0.5.43 | Health check passed
+2026-11-12 14:47:19 | INFO | database | 10.0.2.41 | Health check passed
+2026-11-12 14:48:27 | WARNING | database | 10.0.6.49 | Disk usage above 80%
+2026-11-12 14:48:50 | INFO | payment | 10.0.5.53 | Cache refreshed
+2026-11-12 14:49:29 | INFO | database | 10.0.6.41 | Request completed in 533 ms
+2026-11-12 14:57:38 | WARNING | api | 10.0.4.57 | Disk usage above 80%
+2026-11-12 15:03:27 | INFO | auth | 10.0.6.49 | Scheduled job finished
+2026-11-12 15:04:16 | WARNING | database | 10.0.2.53 | Disk usage above 80%
+2026-11-12 15:09:08 | INFO | api | 10.0.5.6 | Health check passed
+2026-11-12 15:10:11 | INFO | api | 10.0.5.6 | User session started
+2026-11-12 15:15:57 | INFO | api | 10.0.6.42 | Request completed in 238 ms
+2026-11-12 15:16:17 | ERROR | api | 10.0.5.43 | Request payload validation failed
+2026-11-12 15:18:23 | INFO | api | 10.0.1.51 | User session started
+2026-11-12 15:37:02 | WARNING | auth | 10.0.1.4 | Retrying request
+2026-11-12 15:37:19 | WARNING | payment | 10.0.4.30 | Retrying request
+2026-11-12 15:40:17 | WARNING | api | 10.0.4.22 | Retrying request
+2026-11-12 15:45:09 | INFO | api | 10.0.2.7 | Request completed in 657 ms
+2026-11-12 15:46:13 | INFO | api | 10.0.1.4 | User session started
+2026-11-12 15:47:37 | INFO | payment | 10.0.2.41 | Cache refreshed
+2026-11-12 15:53:41 | INFO | payment | 10.0.4.57 | Health check passed
+2026-11-12 15:53:51 | INFO | database | 10.0.1.4 | Request completed in 769 ms
+2026-11-12 15:59:43 | INFO | api | 10.0.5.14 | Cache refreshed
+2026-11-12 16:03:12 | INFO | database | 10.0.2.41 | Health check passed
+2026-11-12 16:03:21 | WARNING | api | 10.0.6.42 | Response time degraded
+2026-11-12 16:04:30 | ERROR | auth | 10.0.4.30 | Password retry limit reached
+2026-11-12 16:07:23 | INFO | api | 10.0.4.30 | Request completed in 420 ms
+2026-11-12 16:21:13 | INFO | auth | 10.0.4.30 | Request completed in 629 ms
+2026-11-12 16:29:12 | ERROR | database | 10.0.5.43 | Deadlock detected on orders table
+2026-11-12 16:40:33 | INFO | api | 10.0.5.6 | Cache refreshed
+2026-11-12 16:47:13 | WARNING | database | 10.0.2.53 | Retrying request
+2026-11-12 17:16:49 | WARNING | api | 10.0.2.41 | Retrying request
+2026-11-12 17:25:05 | ERROR | api | 10.0.4.21 | Request payload validation failed
+2026-11-12 17:28:39 | WARNING | api | 10.0.6.49 | High memory usage 85%
+2026-11-12 17:33:14 | INFO | api | 10.0.4.21 | Request completed in 624 ms
+2026-11-12 17:38:39 | INFO | auth | 10.0.5.43 | Request completed in 384 ms
+2026-11-12 17:38:55 | INFO | api | 10.0.2.8 | Health check passed
+2026-11-12 17:42:49 | INFO | database | 10.0.2.7 | Request completed in 434 ms
+@@##corrupt###
+2026-11-12 17:51:41 | INFO | cache | 10.0.5.56 | User session started
+2026-11-12 17:53:00 | INFO | api | 10.0.6.42 | Scheduled job finished
+2026-11-12 17:53:43 | ERROR | api | 10.0.5.6 | Request payload validation failed
+2026-11-12 17:54:02 | ERROR | auth | 10.0.4.57 | Password retry limit reached
+2026-11-12 18:01:26 | INFO | api | 10.0.1.55 | Request completed in 164 ms
+2026-11-12 18:05:10 | INFO | auth | 10.0.6.41 | Cache refreshed
+2026-11-12 18:11:13 | WARNING | database | 10.0.5.32 | High memory usage 85%
+2026-11-12 18:16:07 | INFO | database | 10.0.4.57 | Health check passed
+2026-11-12 18:34:40 | WARNING | payment | 10.0.4.57 | Response time degraded
+2026-11-12 18:39:41 | INFO | auth | 10.0.5.14 | User session started
+2026-11-12 18:42:18 | INFO | database | 10.0.2.40 | Scheduled job finished
+2026-11-12 18:43:26 | INFO | database | 10.0.2.40 | Health check passed
+2026-11-12 18:45:11 | INFO | api | 10.0.1.51 | Cache refreshed
+2026-11-12 19:23:35 | WARNING | auth | 10.0.1.51 | Response time degraded
+2026-11-12 19:33:34 | WARNING | auth | 10.0.5.56 | Disk usage above 80%
+2026-11-12 19:36:32 | INFO | cache | 10.0.5.56 | Scheduled job finished
+2026-11-12 19:36:38 | WARNING | api | 10.0.5.32 | Response time degraded
+2026-11-12 19:37:59 | INFO | api | 10.0.6.41 | Health check passed
+2026-11-12 19:39:44 | INFO | auth | 10.0.4.30 | Request completed in 539 ms
+2026-11-12 19:54:06 | INFO | api | 10.0.1.4 | Scheduled job finished
+2026-11-12 19:54:48 | INFO | auth | 10.0.4.30 | Scheduled job finished
+2026-11-12 20:04:44 | INFO | database | 10.0.5.32 | Health check passed
+2026-11-12 20:25:36 | INFO | api | 10.0.1.4 | User session started
+2026-11-12 20:52:24 | INFO | api | 10.0.4.30 | User session started
+2026-11-12 20:58:02 | INFO | cache | 10.0.5.43 | Health check passed
+2026-11-12 20:58:32 | INFO | database | 10.0.2.58 | Cache refreshed
+2026-11-12 21:00:22 | INFO | api | 10.0.4.30 | Health check passed
+2026-11-12 21:08:29 | WARNING | payment | 10.0.5.53 | Disk usage above 80%
+2026-11-12 21:12:59 | ERROR | auth | 10.0.6.41 | Session expired for user
+2026-11-12 21:13:33 | WARNING | database | 10.0.6.49 | Disk usage above 80%
+2026-11-12 21:35:52 | ERROR | api | 10.0.1.40 | Request payload validation failed
+2026-11-12 21:44:30 | INFO | payment | 10.0.2.8 | Scheduled job finished
+2026-11-12 22:10:21 | ERROR | api | 10.0.1.4 | Upstream service returned 503
+2026-11-12 22:30:51 | ERROR | database | 10.0.4.30 | Slow query exceeded 2000 ms
+2026-11-12 22:42:19 | ERROR | auth | 10.0.2.7 | Session expired for user
+2026-11-12 22:51:24 | INFO | cache | 10.0.2.40 | Request completed in 171 ms
+2026-11-12 23:28:30 | WARNING | auth | 10.0.5.32 | High memory usage 85%
+2026-11-13 00:57:48 | INFO | payment | 10.0.4.22 | User session started
+2026-11-13 01:32:14 | INFO | api | 10.0.2.58 | Cache refreshed
+2026-11-13 01:34:40 | INFO | api | 10.0.6.41 | Scheduled job finished
+2026-11-13 02:39:24 | INFO | api | 10.0.6.41 | User session started
+2026-11-13 03:19:55 | INFO | api | 10.0.6.42 | Cache refreshed
+2026-11-13 03:27:44 | INFO | database | 10.0.6.42 | Cache refreshed
+2026-11-13 03:34:51 | ERROR | api | 10.0.1.55 | Request payload validation failed
+2026-11-13 03:41:00 | WARNING | payment | 10.0.5.53 | Retrying request
+2026-11-13 04:19:26 | INFO | api | 10.0.1.40 | Request completed in 233 ms
+2026-11-13 04:48:37 | INFO | api | 10.0.6.42 | Request completed in 469 ms
+2026-11-13 05:34:04 | INFO | api | 10.0.6.49 | Scheduled job finished
+2026-11-13 05:47:07 | INFO | auth | 10.0.4.30 | Scheduled job finished
+2026-11-13 06:00:48 | INFO | database | 10.0.6.49 | Scheduled job finished
+2026-11-13 06:21:13 | INFO | api | 10.0.5.6 | User session started
+2026-11-13 06:55:58 | INFO | database | 10.0.4.30 | Request completed in 641 ms
+2026-11-13 06:59:58 | INFO | api | 10.0.5.56 | Health check passed
+2026-11-13 07:01:56 | ERROR | payment | 10.0.2.53 | Gateway timeout while charging card
+2026-11-13 07:12:25 | WARNING | database | 10.0.1.4 | Retrying request
+2026-11-13 07:13:40 | INFO | auth | 10.0.2.58 | User session started
+2026-11-13 07:16:10 | WARNING | auth | 10.0.5.56 | High memory usage 85%
+2026-11-13 07:21:14 | INFO | payment | 10.0.1.51 | Cache refreshed
+2026-11-13 07:21:34 | INFO | database | 10.0.4.30 | Cache refreshed
+2026-11-13 07:51:02 | INFO | database | 10.0.5.6 | Cache refreshed
+2026-11-13 07:54:57 | WARNING | api | 10.0.5.43 | Disk usage above 80%
+2026-11-13 07:56:09 | INFO | api | 10.0.2.8 | Request completed in 682 ms
+----- truncated entry ----
+2026-11-13 08:00:38 | WARNING | api | 10.0.6.49 | Disk usage above 80%
+2026-11-13 08:09:36 | ERROR | payment | 10.0.5.43 | Gateway timeout while charging card
+2026-11-13 08:18:46 | INFO | auth | 10.0.5.56 | Health check passed
+2026-11-13 08:22:26 | INFO | database | 10.0.2.41 | Request completed in 131 ms
+2026-11-13 08:23:18 | INFO | api | 10.0.4.57 | Scheduled job finished
+2026-11-13 08:30:02 | WARNING | cache | 10.0.1.40 | Response time degraded
+2026-11-13 08:32:40 | INFO | api | 10.0.4.30 | Cache refreshed
+2026-11-13 08:37:44 | INFO | api | 10.0.4.30 | Cache refreshed
+2026-11-13 08:40:31 | WARNING | database | 10.0.2.40 | Disk usage above 80%
+2026-11-13 08:43:10 | WARNING | database | 10.0.2.41 | High memory usage 85%
+2026-11-13 08:45:15 | INFO | auth | 10.0.5.32 | Scheduled job finished
+2026-11-13 08:49:53 | INFO | api | 10.0.6.42 | User session started
+2026-11-13 08:50:19 | INFO | database | 10.0.5.56 | Request completed in 418 ms
+2026-11-13 08:50:21 | INFO | cache | 10.0.5.53 | Health check passed
+2026-11-13 08:54:16 | WARNING | database | 10.0.6.49 | Response time degraded
+2026-11-13 08:57:35 | INFO | api | 10.0.4.30 | Request completed in 590 ms
+2026-11-13 09:01:08 | INFO | api | 10.0.4.22 | Scheduled job finished
+2026-11-13 09:02:22 | INFO | api | 10.0.4.21 | Health check passed
+2026-11-13 09:05:25 | INFO | database | 10.0.1.4 | Cache refreshed
+2026-11-13 09:07:41 | ERROR | payment | 10.0.2.8 | Payment callback signature mismatch
+2026-11-13 09:09:14 | ERROR | auth | 10.0.2.7 | Password retry limit reached
+2026-11-13 09:11:23 | INFO | payment | 10.0.5.43 | Request completed in 288 ms
+2026-11-13 09:12:11 | INFO | api | 10.0.1.40 | Request completed in 884 ms
+2026-11-13 09:24:04 | WARNING | database | 10.0.4.30 | Disk usage above 80%
+2026-11-13 09:24:35 | INFO | database | 10.0.4.30 | Scheduled job finished
+2026-11-13 09:28:31 | INFO | api | 10.0.1.4 | User session started
+2026-11-13 09:29:39 | INFO | database | 10.0.1.4 | Scheduled job finished
+2026-11-13 09:33:11 | WARNING | api | 10.0.1.51 | Disk usage above 80%
+2026-11-13 09:39:11 | INFO | auth | 10.0.6.49 | Cache refreshed
+2026-11-13 09:40:32 | INFO | cache | 10.0.2.41 | User session started
+2026-11-13 09:48:26 | INFO | payment | 10.0.4.22 | Health check passed
+2026-11-13 09:54:38 | WARNING | api | 10.0.2.41 | Retrying request
+2026-11-13 09:54:59 | ERROR | api | 10.0.5.56 | Request payload validation failed
+2026-11-13 09:55:19 | INFO | database | 10.0.5.6 | Request completed in 441 ms
+2026-11-13 10:05:23 | INFO | cache | 10.0.5.53 | Scheduled job finished
+2026-11-13 10:16:35 | INFO | api | 10.0.5.56 | User session started
+2026-11-13 10:19:06 | INFO | cache | 10.0.6.41 | User session started
+2026-11-13 10:27:50 | INFO | api | 10.0.5.56 | Health check passed
+2026-11-13 10:32:14 | INFO | api | 10.0.5.56 | Health check passed
+2026-11-13 10:34:53 | INFO | database | 10.0.5.32 | Health check passed
+2026-11-13 10:37:36 | INFO | auth | 10.0.1.40 | Scheduled job finished
+2026-11-13 10:43:45 | WARNING | database | 10.0.2.8 | High memory usage 85%
+2026-11-13 10:46:20 | INFO | payment | 10.0.2.8 | User session started
+2026-11-13 10:48:29 | INFO | api | 10.0.4.57 | Health check passed
+2026-11-13 10:53:22 | WARNING | auth | 10.0.2.58 | High memory usage 85%
+2026-11-13 10:58:09 | INFO | api | 10.0.6.41 | Request completed in 714 ms
+2026-11-13 11:06:32 | INFO | payment | 10.0.4.57 | Scheduled job finished
+2026-11-13 11:07:16 | INFO | auth | 10.0.1.40 | Request completed in 674 ms
+2026-11-13 11:12:49 | INFO | database | 10.0.2.58 | Scheduled job finished
+2026-11-13 11:18:46 | WARNING | payment | 10.0.5.14 | Retrying request
+2026-11-13 11:32:46 | INFO | api | 10.0.2.8 | Request completed in 564 ms
+2026-11-13 11:50:35 | INFO | database | 10.0.2.53 | Health check passed
+2026-11-13 12:04:16 | INFO | database | 10.0.5.53 | User session started
+2026-11-13 12:08:25 | INFO | api | 10.0.5.43 | Request completed in 343 ms
+2026-11-13 12:08:38 | INFO | api | 10.0.5.32 | Request completed in 580 ms
+2026-11-13 12:11:50 | INFO | database | 10.0.1.51 | Cache refreshed
+2026-11-13 12:12:08 | ERROR | api | 10.0.1.40 | Request payload validation failed
+2026-11-13 12:17:13 | INFO | payment | 10.0.4.30 | Health check passed
+2026-11-13 12:53:17 | INFO | api | 10.0.1.40 | User session started
+2026-11-13 12:56:01 | INFO | database | 10.0.5.32 | Scheduled job finished
+2026-11-13 13:08:16 | ERROR | payment | 10.0.5.14 | Gateway timeout while charging card
+2026-11-13 13:19:28 | INFO | payment | 10.0.5.56 | User session started
+2026-11-13 13:23:45 | WARNING | database | 10.0.2.58 | Disk usage above 80%
+2026-11-13 13:31:12 | INFO | auth | 10.0.1.51 | Scheduled job finished
+2026-11-13 13:36:39 | WARNING | cache | 10.0.1.40 | High memory usage 85%
+2026-11-13 13:41:24 | ERROR | api | 10.0.5.56 | Request payload validation failed
+2026-11-13 13:54:43 | INFO | payment | 10.0.2.7 | Request completed in 498 ms
+2026-11-13 13:59:14 | INFO | auth | 10.0.6.42 | User session started
+2026-11-13 14:00:33 | WARNING | auth | 10.0.5.56 | High memory usage 85%
+2026-11-13 14:15:23 | ERROR | api | 10.0.5.6 | Request payload validation failed
+2026-11-13 14:16:42 | INFO | auth | 10.0.2.53 | Cache refreshed
+2026-11-13 14:20:46 | ERROR | api | 10.0.4.30 | Request payload validation failed
+2026-11-13 14:20:48 | INFO | payment | 10.0.4.30 | User session started
+2026-11-13 14:22:01 | ERROR | api | 10.0.4.22 | Upstream service returned 503
+2026-11-13 14:25:20 | INFO | api | 10.0.4.30 | Cache refreshed
+2026-11-13 14:26:38 | ERROR | payment | 10.0.5.6 | Payment callback signature mismatch
+2026-11-13 14:28:31 | ERROR | database | 10.0.5.43 | Slow query exceeded 2000 ms
+2026-11-13 14:30:43 | ERROR | auth | 10.0.5.43 | Login failed: invalid token
+2026-11-13 14:31:00 | ERROR | database | 10.0.2.58 | Deadlock detected on orders table
+2026-11-13 14:38:23 | INFO | auth | 10.0.2.58 | Health check passed
+2026-11-13 14:45:18 | ERROR | database | 10.0.6.49 | Slow query exceeded 2000 ms
+2026-11-13 14:46:07 | ERROR | auth | 10.0.2.7 | Session expired for user
+2026-11-13 15:01:57 | ERROR | database | 10.0.4.57 | Connection timeout to db-primary
+2026-11-13 15:09:17 | ERROR | database | 10.0.4.30 | Deadlock detected on orders table
+2026-11-13 15:09:39 | INFO | api | 10.0.2.41 | Scheduled job finished
+2026-11-13 15:12:09 | INFO | api | 10.0.6.41 | Request completed in 56 ms
+2026-11-13 15:13:56 | ERROR | api | 10.0.1.51 | Rate limit exceeded for client
+2026-11-13 15:17:34 | ERROR | auth | 10.0.4.30 | Login failed: invalid token
+2026-11-13 15:21:23 | INFO | api | 10.0.2.8 | Scheduled job finished
+2026-11-13 15:23:05 | ERROR | api | 10.0.1.40 | Upstream service returned 503
+2026-11-13 15:27:51 | ERROR | api | 10.0.5.56 | Rate limit exceeded for client
+2026-11-13 15:28:53 | INFO | database | 10.0.4.21 | Request completed in 388 ms
+2026-11-13 15:29:02 | WARNING | auth | 10.0.5.14 | Response time degraded
+2026-11-13 15:40:00 | ERROR | api | 10.0.4.21 | Request payload validation failed
+2026-11-13 15:42:45 | INFO | api | 10.0.4.30 | Health check passed
+2026-11-13 15:45:11 | ERROR | api | 10.0.1.40 | Request payload validation failed
+2026-11-13 15:51:16 | INFO | auth | 10.0.1.51 | Scheduled job finished
+2026-11-13 15:53:26 | ERROR | database | 10.0.4.30 | Deadlock detected on orders table
+2026-11-13 16:03:19 | INFO | database | 10.0.1.40 | Request completed in 813 ms
+2026-11-13 16:06:58 | INFO | database | 10.0.5.14 | Cache refreshed
+2026-11-13 16:10:03 | ERROR | database | 10.0.4.21 | Slow query exceeded 2000 ms
+2026-11-13 16:12:24 | INFO | payment | 10.0.4.30 | Request completed in 153 ms
+2026-11-13 16:14:01 | INFO | cache | 10.0.4.30 | Request completed in 689 ms
+2026-11-13 16:18:01 | ERROR | api | 10.0.1.40 | Upstream service returned 503
+2026-11-13 16:20:30 | INFO | database | 10.0.2.7 | Request completed in 808 ms
+2026-11-13 16:25:15 | INFO | database | 10.0.4.30 | User session started
+2026-11-13 16:25:20 | INFO | payment | 10.0.2.8 | Request completed in 603 ms
+2026-11-13 16:31:31 | INFO | payment | 10.0.2.8 | User session started
+2026-11-13 16:36:32 | INFO | api | 10.0.1.4 | Scheduled job finished
+2026-11-13 16:40:28 | INFO | database | 10.0.5.53 | User session started
+2026-11-13 16:49:10 | INFO | payment | 10.0.5.53 | Health check passed
+2026-11-13 16:51:22 | INFO | api | 10.0.5.6 | Health check passed
+2026-11-13 16:51:41 | WARNING | database | 10.0.5.43 | Disk usage above 80%
+2026-11-13 16:52:12 | WARNING | database | 10.0.6.41 | High memory usage 85%
+2026-11-13 16:54:00 | INFO | database | 10.0.1.4 | Scheduled job finished
+2026-11-13 16:55:39 | INFO | api | 10.0.2.8 | User session started
+2026-11-13 16:58:11 | WARNING | auth | 10.0.1.55 | High memory usage 85%
+2026-11-13 17:11:30 | ERROR | api | 10.0.2.8 | Rate limit exceeded for client
+2026-11-13 17:13:10 | WARNING | auth | 10.0.4.21 | High memory usage 85%
+2026-11-13 17:13:34 | ERROR | database | 10.0.4.21 | Slow query exceeded 2000 ms
+2026-11-13 17:15:45 | INFO | api | 10.0.4.30 | Cache refreshed
+2026-11-13 17:18:35 | INFO | api | 10.0.4.22 | Scheduled job finished
+2026-11-13 17:27:49 | INFO | cache | 10.0.4.21 | User session started
+2026-11-13 17:34:40 | WARNING | payment | 10.0.2.8 | Retrying request
+2026-11-13 17:36:51 | INFO | api | 10.0.4.22 | Health check passed
+2026-11-13 17:37:30 | INFO | api | 10.0.5.6 | Request completed in 654 ms
+2026-11-13 17:43:24 | ERROR | payment | 10.0.2.7 | Gateway timeout while charging card
+2026-11-13 17:44:48 | INFO | api | 10.0.5.43 | Cache refreshed
+2026-11-13 17:46:58 | INFO | api | 10.0.2.8 | User session started
+2026-11-13 17:55:45 | INFO | auth | 10.0.5.6 | Request completed in 706 ms
+2026-11-13 17:56:47 | INFO | auth | 10.0.4.30 | Scheduled job finished
+2026-11-13 17:59:10 | INFO | api | 10.0.6.42 | Request completed in 415 ms
+2026-11-13 18:02:06 | INFO | auth | 10.0.1.4 | User session started
+2026-11-13 18:05:56 | WARNING | database | 10.0.5.56 | Disk usage above 80%
+2026-11-13 18:14:38 | INFO | auth | 10.0.5.6 | Request completed in 200 ms
+2026-11-13 18:15:23 | WARNING | database | 10.0.5.56 | High memory usage 85%
+2026-11-13 18:16:22 | WARNING | auth | 10.0.5.56 | Disk usage above 80%
+2026-11-13 18:29:41 | INFO | api | 10.0.6.42 | Request completed in 88 ms
+2026-11-13 18:33:58 | INFO | database | 10.0.2.41 | Scheduled job finished
+2026-11-13 18:35:22 | INFO | payment | 10.0.2.53 | Scheduled job finished
+2026-11-13 19:05:02 | WARNING | api | 10.0.6.49 | Response time degraded
+2026-11-13 19:07:00 | ERROR | api | 10.0.1.55 | Upstream service returned 503
+2026-11-13 19:09:08 | INFO | auth | 10.0.2.53 | Health check passed
+2026-11-13 19:12:23 | INFO | api | 10.0.2.7 | Scheduled job finished
+2026-11-13 19:22:12 | INFO | api | 10.0.5.56 | Health check passed
+2026-11-13 19:26:45 | WARNING | database | 10.0.4.30 | High memory usage 85%
+2026-11-13 19:27:07 | INFO | payment | 10.0.1.55 | Cache refreshed
+2026-11-13 19:37:08 | INFO | auth | 10.0.2.41 | Health check passed
+2026-11-13 19:41:01 | INFO | api | 10.0.5.14 | User session started
+2026-11-13 19:44:37 | WARNING | database | 10.0.6.41 | Disk usage above 80%
+2026-11-13 19:48:39 | INFO | api | 10.0.5.56 | Health check passed
+2026-11-13 19:52:23 | ERROR | api | 10.0.5.32 | Upstream service returned 503
+2026-11-13 19:55:14 | INFO | api | 10.0.6.42 | Request completed in 514 ms
+2026-11-13 19:59:20 | INFO | database | 10.0.2.7 | Cache refreshed
+2026-11-13 20:01:19 | INFO | payment | 10.0.5.6 | User session started
+@@##corrupt###
+2026-11-13 20:28:59 | WARNING | database | 10.0.4.30 | High memory usage 85%
+2026-11-13 20:54:28 | INFO | database | 10.0.4.30 | Scheduled job finished
+2026-11-13 21:27:31 | WARNING | api | 10.0.1.40 | High memory usage 85%
+2026-11-13 22:59:35 | WARNING | auth | 10.0.5.6 | High memory usage 85%
+2026-11-13 23:47:05 | WARNING | api | 10.0.6.42 | Retrying request
+2026-11-14 00:11:50 | WARNING | database | 10.0.4.30 | High memory usage 85%
+2026-11-14 02:33:17 | INFO | payment | 10.0.2.8 | Request completed in 812 ms
+2026-11-14 02:34:55 | INFO | api | 10.0.6.42 | Cache refreshed
+2026-11-14 03:09:01 | INFO | auth | 10.0.2.53 | Scheduled job finished
+2026-11-14 03:49:02 | WARNING | auth | 10.0.1.55 | High memory usage 85%
+2026-11-14 04:57:18 | INFO | cache | 10.0.2.58 | User session started
+2026-11-14 05:01:14 | INFO | auth | 10.0.1.40 | Health check passed
+2026-11-14 05:12:46 | INFO | cache | 10.0.5.6 | Scheduled job finished
+2026-11-14 06:10:27 | INFO | api | 10.0.2.8 | Scheduled job finished
+2026-11-14 06:15:47 | INFO | auth | 10.0.2.40 | Scheduled job finished
+2026-11-14 06:26:32 | INFO | payment | 10.0.2.7 | Request completed in 203 ms
+2026-11-14 06:27:31 | INFO | api | 10.0.1.55 | Cache refreshed
+2026-11-14 07:10:03 | INFO | database | 10.0.5.53 | Health check passed
+2026-11-14 07:21:12 | WARNING | database | 10.0.4.30 | Disk usage above 80%
+2026-11-14 07:22:38 | INFO | payment | 10.0.6.49 | Scheduled job finished
+2026-11-14 07:33:56 | INFO | database | 10.0.1.40 | Health check passed
+2026-11-14 07:50:23 | INFO | database | 10.0.4.57 | Health check passed
+2026-11-14 08:00:46 | INFO | api | 10.0.5.6 | Health check passed
+2026-11-14 08:04:47 | INFO | api | 10.0.6.42 | Request completed in 412 ms
+2026-11-14 08:29:56 | INFO | auth | 10.0.4.21 | Request completed in 797 ms
+2026-11-14 08:38:06 | INFO | auth | 10.0.5.56 | User session started
+2026-11-14 08:40:02 | WARNING | cache | 10.0.6.42 | High memory usage 85%
+2026-11-14 08:45:35 | ERROR | api | 10.0.5.53 | Request payload validation failed
+2026-11-14 08:46:32 | INFO | cache | 10.0.4.22 | Scheduled job finished
+2026-11-14 08:48:13 | INFO | api | 10.0.1.55 | Scheduled job finished
+2026-11-14 08:48:45 | INFO | auth | 10.0.5.6 | User session started
+2026-11-14 08:49:44 | INFO | api | 10.0.2.40 | Request completed in 132 ms
+2026-11-14 09:11:57 | INFO | api | 10.0.2.8 | Health check passed
+2026-11-14 09:18:15 | INFO | auth | 10.0.1.4 | Scheduled job finished
+2026-11-14 09:19:14 | INFO | database | 10.0.4.30 | Request completed in 208 ms
+2026-11-14 09:21:16 | INFO | auth | 10.0.5.43 | Request completed in 748 ms
+2026-11-14 09:22:49 | INFO | api | 10.0.6.41 | User session started
+2026-11-14 09:29:17 | INFO | auth | 10.0.5.32 | Health check passed
+2026-11-14 09:37:28 | INFO | database | 10.0.2.58 | User session started
+2026-11-14 09:45:22 | INFO | payment | 10.0.5.56 | Health check passed
+2026-11-14 09:51:54 | INFO | auth | 10.0.5.6 | Request completed in 374 ms
+2026-11-14 09:52:49 | INFO | auth | 10.0.4.22 | User session started
+2026-11-14 09:56:33 | WARNING | api | 10.0.5.32 | High memory usage 85%
+2026-11-14 09:56:41 | INFO | database | 10.0.5.56 | Cache refreshed
+2026-11-14 10:02:25 | INFO | database | 10.0.5.56 | Cache refreshed
+2026-11-14 10:09:49 | INFO | api | 10.0.4.57 | Cache refreshed
+2026-11-14 10:31:02 | INFO | api | 10.0.2.7 | User session started
+2026-11-14 10:35:07 | WARNING | payment | 10.0.1.55 | High memory usage 85%
+2026-11-14 10:38:12 | INFO | api | 10.0.2.8 | Request completed in 173 ms
+2026-11-14 10:39:46 | WARNING | payment | 10.0.5.6 | Response time degraded
+2026-11-14 10:40:13 | INFO | database | 10.0.1.4 | Request completed in 207 ms
+2026-11-14 10:41:15 | INFO | auth | 10.0.2.40 | Scheduled job finished
+2026-11-14 10:43:08 | INFO | api | 10.0.5.56 | User session started
+2026-11-14 10:44:12 | WARNING | payment | 10.0.2.41 | Retrying request
+2026-11-14 10:46:38 | INFO | database | 10.0.2.41 | Scheduled job finished
+2026-11-14 11:04:35 | ERROR | api | 10.0.4.22 | Upstream service returned 503
+2026-11-14 11:04:36 | INFO | payment | 10.0.5.14 | Health check passed
+2026-11-14 11:15:47 | INFO | auth | 10.0.2.53 | Cache refreshed
+2026-11-14 11:16:15 | INFO | auth | 10.0.1.55 | Scheduled job finished
+2026-11-14 11:29:12 | INFO | api | 10.0.4.57 | Health check passed
+2026-11-14 11:36:59 | INFO | api | 10.0.5.56 | Cache refreshed
+2026-11-14 11:40:54 | ERROR | cache | 10.0.2.7 | Cache miss ratio above threshold
+2026-11-14 11:41:44 | WARNING | auth | 10.0.5.6 | Retrying request
+2026-11-14 11:58:38 | INFO | auth | 10.0.2.53 | Scheduled job finished
+2026-11-14 12:14:27 | INFO | auth | 10.0.4.30 | Scheduled job finished
+2026-11-14 12:17:03 | INFO | database | 10.0.4.30 | User session started
+2026-11-14 12:18:19 | INFO | api | 10.0.5.53 | Cache refreshed
+2026-11-14 12:36:30 | INFO | auth | 10.0.2.8 | Scheduled job finished
+2026-11-14 12:36:33 | WARNING | database | 10.0.4.21 | Retrying request
+2026-11-14 12:41:43 | INFO | database | 10.0.5.32 | User session started
+2026-11-14 12:59:19 | INFO | database | 10.0.5.6 | Request completed in 619 ms
+2026-11-14 13:01:03 | WARNING | payment | 10.0.4.57 | High memory usage 85%
+2026-11-14 13:06:41 | INFO | database | 10.0.5.56 | Cache refreshed
+2026-11-14 13:09:19 | INFO | payment | 10.0.6.41 | Health check passed
+2026-11-14 13:11:22 | WARNING | database | 10.0.5.32 | Retrying request
+2026-11-14 13:15:08 | INFO | database | 10.0.2.8 | Cache refreshed
+2026-11-14 13:32:00 | INFO | database | 10.0.5.6 | Scheduled job finished
+2026-11-14 13:33:38 | WARNING | api | 10.0.2.58 | Disk usage above 80%
+
+2026-11-14 13:49:53 | INFO | auth | 10.0.5.32 | Scheduled job finished
+2026-11-14 13:50:21 | INFO | database | 10.0.1.55 | Health check passed
+2026-11-14 14:04:07 | ERROR | cache | 10.0.6.41 | Redis eviction rate high
+2026-11-14 14:09:07 | INFO | database | 10.0.4.57 | User session started
+2026-11-14 14:18:01 | ERROR | payment | 10.0.4.21 | Gateway timeout while charging card
+2026-11-14 14:19:08 | WARNING | auth | 10.0.5.56 | Disk usage above 80%
+2026-11-14 14:20:11 | INFO | database | 10.0.4.30 | User session started
+2026-11-14 14:20:13 | INFO | database | 10.0.2.53 | Cache refreshed
+2026-11-14 14:22:32 | INFO | payment | 10.0.5.32 | User session started
+2026-11-14 14:23:43 | INFO | auth | 10.0.6.49 | Request completed in 654 ms
+2026-11-14 14:33:49 | INFO | api | 10.0.2.58 | Scheduled job finished
+2026-11-14 14:35:38 | INFO | cache | 10.0.2.7 | User session started
+2026-11-14 14:36:05 | INFO | payment | 10.0.1.55 | User session started
+2026-11-14 14:36:07 | INFO | api | 10.0.4.30 | User session started
+2026-11-14 14:39:50 | INFO | api | 10.0.1.55 | User session started
+2026-11-14 14:41:24 | INFO | auth | 10.0.1.4 | Health check passed
+2026-11-14 14:42:31 | WARNING | payment | 10.0.2.41 | Retrying request
+2026-11-14 14:43:59 | INFO | cache | 10.0.5.6 | Cache refreshed
+2026-11-14 14:46:43 | INFO | cache | 10.0.4.30 | Cache refreshed
+2026-11-14 14:47:47 | INFO | api | 10.0.4.22 | User session started
+2026-11-14 15:02:20 | INFO | cache | 10.0.5.14 | User session started
+2026-11-14 15:04:30 | INFO | cache | 10.0.5.56 | Health check passed
+2026-11-14 15:10:07 | INFO | cache | 10.0.2.8 | Request completed in 703 ms
+2026-11-14 15:14:56 | ERROR | api | 10.0.5.6 | Request payload validation failed
+2026-11-14 15:16:53 | INFO | auth | 10.0.1.55 | Cache refreshed
+2026-11-14 15:26:34 | INFO | cache | 10.0.2.40 | User session started
+2026-11-14 15:28:56 | INFO | cache | 10.0.1.40 | User session started
+2026-11-14 15:31:17 | INFO | auth | 10.0.2.53 | Scheduled job finished
+2026-11-14 15:33:09 | ERROR | api | 10.0.4.22 | Request payload validation failed
+2026-11-14 15:37:16 | INFO | api | 10.0.5.56 | User session started
+2026-11-14 15:37:44 | INFO | auth | 10.0.5.14 | Request completed in 503 ms
+2026-11-14 15:39:38 | INFO | api | 10.0.2.53 | Health check passed
+2026-11-14 15:54:08 | INFO | payment | 10.0.6.41 | Scheduled job finished
+2026-11-14 16:03:27 | INFO | api | 10.0.4.22 | User session started
+2026-11-14 16:05:25 | INFO | database | 10.0.2.41 | Scheduled job finished
+2026-11-14 16:11:12 | INFO | database | 10.0.5.14 | Health check passed
+2026-11-14 16:11:25 | INFO | auth | 10.0.6.42 | Scheduled job finished
+2026-11-14 16:16:00 | INFO | database | 10.0.2.41 | Scheduled job finished
+@@##corrupt###
+2026-11-14 16:38:30 | INFO | api | 10.0.4.30 | User session started
+2026-11-14 16:38:33 | ERROR | api | 10.0.4.57 | Rate limit exceeded for client
+2026-11-14 16:39:26 | INFO | auth | 10.0.1.40 | Scheduled job finished
+2026-11-14 16:44:02 | INFO | api | 10.0.6.42 | User session started
+2026-11-14 16:44:19 | ERROR | api | 10.0.1.51 | Request payload validation failed
+2026-11-14 16:49:22 | INFO | database | 10.0.2.53 | Cache refreshed
+2026-11-14 16:50:40 | INFO | cache | 10.0.2.8 | User session started
+2026-11-14 16:54:44 | INFO | database | 10.0.2.8 | Scheduled job finished
+2026-11-14 17:02:14 | INFO | auth | 10.0.5.56 | Cache refreshed
+2026-11-14 17:03:22 | INFO | auth | 10.0.2.8 | Cache refreshed
+2026-11-14 17:10:20 | INFO | api | 10.0.5.32 | User session started
+2026-11-14 17:31:16 | INFO | database | 10.0.4.30 | User session started
+2026-11-14 17:33:13 | INFO | api | 10.0.5.32 | Cache refreshed
+2026-11-14 17:37:20 | INFO | api | 10.0.5.32 | Health check passed
+2026-11-14 17:47:51 | WARNING | cache | 10.0.5.43 | Response time degraded
+2026-11-14 17:48:42 | INFO | database | 10.0.1.51 | Health check passed
+2026-11-14 17:59:44 | INFO | api | 10.0.6.42 | User session started
+2026-11-14 18:03:50 | INFO | database | 10.0.6.42 | User session started
+2026-11-14 18:13:08 | INFO | database | 10.0.5.56 | User session started
+2026-11-14 18:18:31 | INFO | api | 10.0.2.53 | Cache refreshed
+2026-11-14 18:19:21 | INFO | auth | 10.0.5.6 | Health check passed
+2026-11-14 19:44:30 | WARNING | api | 10.0.5.6 | High memory usage 85%
+2026-11-14 19:52:47 | WARNING | database | 10.0.4.21 | Disk usage above 80%
+2026-11-14 19:52:56 | INFO | database | 10.0.4.22 | User session started
+2026-11-14 19:55:25 | INFO | payment | 10.0.5.56 | Health check passed
+2026-11-14 20:05:27 | INFO | payment | 10.0.1.4 | Scheduled job finished
+2026-11-14 20:08:47 | INFO | api | 10.0.4.30 | Cache refreshed
+2026-11-14 20:19:16 | INFO | database | 10.0.2.7 | Request completed in 468 ms
+2026-11-14 20:27:48 | ERROR | cache | 10.0.1.55 | Redis eviction rate high
+2026-11-14 20:30:36 | WARNING | payment | 10.0.6.42 | High memory usage 85%
+2026-11-14 20:51:18 | INFO | database | 10.0.1.55 | Health check passed
+2026-11-14 20:54:48 | INFO | api | 10.0.5.6 | User session started
+2026-11-14 21:10:21 | INFO | database | 10.0.4.30 | Scheduled job finished
+2026-11-14 21:42:52 | INFO | auth | 10.0.5.32 | Scheduled job finished
+2026-11-14 21:43:17 | INFO | payment | 10.0.4.57 | Request completed in 830 ms
+2026-11-14 21:44:29 | INFO | database | 10.0.2.53 | Cache refreshed
+@@##corrupt###
+2026-11-14 21:51:29 | INFO | auth | 10.0.4.57 | Cache refreshed
+2026-11-14 21:55:18 | INFO | api | 10.0.5.43 | User session started
+2026-11-14 22:47:14 | WARNING | database | 10.0.4.21 | High memory usage 85%
+2026-11-14 23:34:54 | INFO | database | 10.0.6.49 | Request completed in 872 ms
+2026-11-15 00:08:03 | ERROR | payment | 10.0.2.8 | Payment callback signature mismatch
+
+2026-11-15 03:54:17 | INFO | auth | 10.0.1.4 | User session started
+2026-11-15 04:43:43 | INFO | auth | 10.0.5.53 | Health check passed
+2026-11-15 05:37:24 | INFO | api | 10.0.1.4 | Health check passed
+2026-11-15 06:05:18 | INFO | api | 10.0.4.22 | Scheduled job finished
+2026-11-15 06:16:56 | INFO | cache | 10.0.5.56 | Cache refreshed
+2026-11-15 06:28:30 | ERROR | payment | 10.0.2.8 | Gateway timeout while charging card
+2026-11-15 06:52:16 | INFO | auth | 10.0.2.58 | Cache refreshed
+2026-11-15 06:58:57 | INFO | payment | 10.0.2.8 | Health check passed
+2026-11-15 07:06:47 | INFO | api | 10.0.6.41 | Request completed in 650 ms
+2026-11-15 07:14:08 | INFO | database | 10.0.6.41 | Health check passed
+2026-11-15 07:20:31 | INFO | api | 10.0.4.57 | Cache refreshed
+2026-11-15 07:22:33 | INFO | database | 10.0.5.14 | Health check passed
+2026-11-15 07:52:36 | WARNING | api | 10.0.5.56 | Retrying request
+2026-11-15 08:02:07 | INFO | api | 10.0.4.30 | Request completed in 895 ms
+2026-11-15 08:03:44 | INFO | api | 10.0.2.8 | Cache refreshed
+2026-11-15 08:08:12 | WARNING | database | 10.0.6.42 | Retrying request
+2026-11-15 08:10:13 | INFO | auth | 10.0.5.32 | User session started
+2026-11-15 08:13:11 | INFO | auth | 10.0.5.53 | User session started
+2026-11-15 08:14:33 | INFO | auth | 10.0.2.40 | Cache refreshed
+2026-11-15 08:19:07 | INFO | auth | 10.0.4.30 | Request completed in 741 ms
+2026-11-15 08:28:36 | INFO | database | 10.0.4.57 | Scheduled job finished
+2026-11-15 08:35:01 | INFO | auth | 10.0.5.53 | User session started
+2026-11-15 08:41:17 | INFO | api | 10.0.2.58 | Health check passed
+2026-11-15 08:44:21 | ERROR | database | 10.0.5.6 | Connection timeout to db-primary
+2026-11-15 08:50:08 | INFO | api | 10.0.5.56 | Request completed in 864 ms
+2026-11-15 08:56:45 | INFO | database | 10.0.5.56 | Cache refreshed
+2026-11-15 09:04:31 | ERROR | api | 10.0.6.41 | Rate limit exceeded for client
+2026-11-15 09:05:04 | ERROR | api | 10.0.5.56 | Rate limit exceeded for client
+2026-11-15 09:05:54 | WARNING | auth | 10.0.5.6 | Response time degraded
+2026-11-15 09:06:41 | INFO | api | 10.0.1.55 | Cache refreshed
+2026-11-15 09:07:21 | INFO | auth | 10.0.1.51 | Cache refreshed
+2026-11-15 09:15:52 | INFO | api | 10.0.1.40 | Health check passed
+2026-11-15 09:17:18 | INFO | auth | 10.0.5.32 | User session started
+2026-11-15 09:18:01 | WARNING | database | 10.0.2.7 | High memory usage 85%
+2026-11-15 09:23:23 | WARNING | payment | 10.0.1.51 | Response time degraded
+2026-11-15 09:24:41 | WARNING | database | 10.0.4.21 | High memory usage 85%
+2026-11-15 09:30:06 | WARNING | auth | 10.0.5.43 | High memory usage 85%
+2026-11-15 09:47:44 | INFO | auth | 10.0.6.42 | Scheduled job finished
+2026-11-15 09:49:15 | INFO | auth | 10.0.1.51 | User session started
+2026-11-15 09:55:20 | WARNING | auth | 10.0.2.40 | Retrying request
+2026-11-15 10:14:47 | INFO | auth | 10.0.5.56 | Health check passed
+2026-11-15 10:16:45 | INFO | auth | 10.0.4.22 | User session started
+2026-11-15 10:21:36 | INFO | auth | 10.0.2.40 | Scheduled job finished
+2026-11-15 10:22:27 | INFO | auth | 10.0.6.41 | Cache refreshed
+2026-11-15 10:23:47 | INFO | auth | 10.0.5.56 | Cache refreshed
+2026-11-15 10:24:24 | ERROR | cache | 10.0.4.57 | Redis eviction rate high
+2026-11-15 10:28:29 | ERROR | api | 10.0.2.41 | Request payload validation failed
+2026-11-15 10:30:19 | INFO | payment | 10.0.2.40 | Request completed in 854 ms
+2026-11-15 10:36:10 | WARNING | auth | 10.0.2.41 | Disk usage above 80%
+2026-11-15 10:50:15 | INFO | database | 10.0.2.41 | Request completed in 702 ms
+2026-11-15 10:57:24 | INFO | auth | 10.0.1.51 | Request completed in 799 ms
+2026-11-15 11:17:07 | INFO | api | 10.0.6.49 | User session started
+2026-11-15 11:18:17 | INFO | database | 10.0.5.56 | Cache refreshed
+2026-11-15 11:20:11 | INFO | api | 10.0.6.49 | Scheduled job finished
+2026-11-15 11:25:08 | ERROR | payment | 10.0.6.42 | Payment callback signature mismatch
+2026-11-15 11:28:00 | INFO | cache | 10.0.6.42 | Request completed in 689 ms
+2026-11-15 11:30:23 | WARNING | database | 10.0.5.56 | Retrying request
+2026-11-15 11:30:44 | INFO | payment | 10.0.2.7 | Health check passed
+2026-11-15 11:37:34 | INFO | api | 10.0.5.43 | Health check passed
+2026-11-15 11:38:56 | INFO | auth | 10.0.6.49 | Health check passed
+2026-11-15 11:40:35 | INFO | auth | 10.0.4.22 | Health check passed
+2026-11-15 11:40:41 | INFO | database | 10.0.2.8 | Scheduled job finished
+2026-11-15 11:42:57 | INFO | api | 10.0.2.41 | Request completed in 77 ms
+2026-11-15 11:43:34 | INFO | api | 10.0.2.7 | Health check passed
+2026-11-15 11:44:26 | INFO | api | 10.0.5.56 | Cache refreshed
+2026-11-15 11:47:47 | INFO | payment | 10.0.4.30 | Scheduled job finished
+2026-11-15 11:49:22 | INFO | payment | 10.0.4.57 | Cache refreshed
+2026-11-15 11:54:08 | INFO | payment | 10.0.1.51 | Cache refreshed
+2026-11-15 12:12:27 | INFO | database | 10.0.4.21 | Cache refreshed
+2026-11-15 12:23:13 | WARNING | payment | 10.0.5.32 | Response time degraded
+2026-11-15 12:27:32 | WARNING | database | 10.0.5.53 | Response time degraded
+2026-11-15 12:30:52 | INFO | api | 10.0.5.56 | Cache refreshed
+2026-11-15 12:47:50 | INFO | database | 10.0.4.30 | User session started
+2026-11-15 12:56:56 | INFO | api | 10.0.2.8 | Scheduled job finished
+2026-11-15 13:02:16 | INFO | database | 10.0.4.30 | Cache refreshed
+2026-11-15 13:03:05 | INFO | api | 10.0.2.7 | Scheduled job finished
+2026-11-15 13:10:01 | INFO | api | 10.0.5.14 | User session started
+2026-11-15 13:48:34 | ERROR | api | 10.0.6.42 | Rate limit exceeded for client
+2026-11-15 13:50:53 | INFO | api | 10.0.2.40 | Scheduled job finished
+2026-11-15 13:55:20 | INFO | cache | 10.0.1.4 | Cache refreshed
+2026-11-15 14:00:14 | INFO | api | 10.0.1.51 | Scheduled job finished
+2026-11-15 14:03:19 | WARNING | database | 10.0.1.40 | Retrying request
+2026-11-15 14:04:18 | ERROR | api | 10.0.1.51 | Request payload validation failed
+2026-11-15 14:11:58 | INFO | database | 10.0.5.43 | User session started
+2026-11-15 14:12:12 | INFO | database | 10.0.6.49 | Request completed in 720 ms
+2026-11-15 14:29:46 | INFO | auth | 10.0.2.58 | Health check passed
+2026-11-15 14:30:39 | INFO | database | 10.0.1.40 | Request completed in 117 ms
+2026-11-15 14:35:10 | INFO | payment | 10.0.4.30 | Scheduled job finished
+2026-11-15 14:36:55 | INFO | database | 10.0.2.53 | Request completed in 602 ms
+2026-11-15 14:38:21 | INFO | database | 10.0.1.51 | Cache refreshed
+2026-11-15 14:44:58 | INFO | api | 10.0.5.56 | User session started
+2026-11-15 14:50:14 | INFO | database | 10.0.2.40 | Health check passed
+2026-11-15 14:56:12 | INFO | database | 10.0.4.30 | Scheduled job finished
+2026-11-15 15:01:45 | WARNING | payment | 10.0.1.51 | Retrying request
+2026-11-15 15:03:55 | INFO | api | 10.0.5.14 | Scheduled job finished
+2026-11-15 15:25:34 | ERROR | api | 10.0.1.51 | Rate limit exceeded for client
+2026-11-15 15:37:17 | INFO | api | 10.0.2.8 | Request completed in 265 ms
+2026-11-15 15:38:27 | INFO | api | 10.0.4.21 | Cache refreshed
+2026-11-15 15:38:37 | INFO | database | 10.0.2.58 | Request completed in 614 ms
+2026-11-15 15:57:59 | INFO | auth | 10.0.5.32 | Scheduled job finished
+2026-11-15 15:59:28 | INFO | api | 10.0.6.49 | User session started
+2026-11-15 16:00:54 | INFO | api | 10.0.1.51 | Cache refreshed
+2026-11-15 16:05:43 | INFO | cache | 10.0.6.49 | User session started
+2026-11-15 16:08:07 | INFO | cache | 10.0.6.42 | Request completed in 541 ms
+2026-11-15 16:09:04 | ERROR | api | 10.0.1.4 | Upstream service returned 503
+2026-11-15 16:09:30 | INFO | api | 10.0.1.55 | Cache refreshed
+2026-11-15 16:12:23 | INFO | auth | 10.0.4.21 | Scheduled job finished
+2026-11-15 16:16:29 | INFO | payment | 10.0.4.30 | User session started
+2026-11-15 16:29:50 | INFO | api | 10.0.1.40 | User session started
+2026-11-15 16:38:15 | INFO | auth | 10.0.6.49 | Request completed in 709 ms
+2026-11-15 16:40:42 | ERROR | api | 10.0.5.32 | Upstream service returned 503
+2026-11-15 16:44:12 | INFO | cache | 10.0.2.8 | User session started
+2026-11-15 16:48:34 | INFO | cache | 10.0.1.55 | Cache refreshed
+2026-11-15 16:48:55 | INFO | payment | 10.0.4.57 | Cache refreshed
+2026-11-15 16:50:08 | INFO | payment | 10.0.5.56 | Request completed in 552 ms
+2026-11-15 16:59:01 | INFO | cache | 10.0.6.49 | Scheduled job finished
+2026-11-15 17:02:57 | INFO | cache | 10.0.5.32 | Scheduled job finished
+2026-11-15 17:09:17 | INFO | payment | 10.0.5.43 | User session started
+2026-11-15 17:23:07 | INFO | api | 10.0.2.40 | User session started
+2026-11-15 17:27:33 | INFO | payment | 10.0.2.41 | Request completed in 690 ms
+2026-11-15 17:29:56 | INFO | api | 10.0.2.7 | Scheduled job finished
+2026-11-15 17:43:52 | INFO | database | 10.0.2.41 | Cache refreshed
+2026-11-15 17:53:02 | INFO | api | 10.0.1.51 | Health check passed
+2026-11-15 18:03:23 | INFO | auth | 10.0.2.58 | Health check passed
+2026-11-15 18:14:02 | INFO | database | 10.0.5.53 | Cache refreshed
+2026-11-15 18:42:07 | INFO | database | 10.0.2.58 | User session started
+2026-11-15 18:44:48 | INFO | database | 10.0.1.40 | Scheduled job finished
+2026-11-15 18:48:05 | INFO | api | 10.0.5.56 | Request completed in 454 ms
+2026-11-15 18:59:16 | INFO | api | 10.0.5.6 | Cache refreshed
+2026-11-15 19:00:52 | WARNING | api | 10.0.4.22 | High memory usage 85%
+2026-11-15 19:18:32 | INFO | api | 10.0.1.4 | Request completed in 549 ms
+2026-11-15 19:22:18 | INFO | auth | 10.0.2.53 | Scheduled job finished
+2026-11-15 19:31:33 | INFO | database | 10.0.2.7 | Health check passed
+2026-11-15 19:34:04 | INFO | api | 10.0.5.53 | Scheduled job finished
+2026-11-15 19:39:53 | INFO | database | 10.0.2.53 | Scheduled job finished
+2026-11-15 19:52:09 | INFO | payment | 10.0.1.51 | Cache refreshed
+2026-11-15 19:52:21 | INFO | api | 10.0.4.30 | Scheduled job finished
+2026-11-15 20:03:32 | WARNING | auth | 10.0.1.51 | Response time degraded
+2026-11-15 20:11:57 | INFO | database | 10.0.2.41 | User session started
+2026-11-15 20:24:53 | INFO | api | 10.0.5.43 | Request completed in 85 ms
+2026-11-15 20:28:30 | INFO | api | 10.0.6.41 | Request completed in 54 ms
+2026-11-15 20:30:16 | INFO | payment | 10.0.4.22 | Cache refreshed
+2026-11-15 20:35:47 | INFO | api | 10.0.1.4 | Request completed in 399 ms
+2026-11-15 20:42:36 | WARNING | api | 10.0.5.56 | Response time degraded
+2026-11-15 21:05:27 | INFO | auth | 10.0.2.41 | User session started
+2026-11-15 21:40:07 | INFO | database | 10.0.5.6 | Health check passed
+2026-11-15 21:51:10 | INFO | payment | 10.0.6.41 | Cache refreshed
+2026-11-15 21:59:43 | WARNING | api | 10.0.4.21 | High memory usage 85%
+2026-11-15 22:07:38 | WARNING | api | 10.0.1.40 | Retrying request
+2026-11-15 22:29:34 | ERROR | payment | 10.0.4.57 | Payment callback signature mismatch
+2026-11-15 22:42:08 | INFO | database | 10.0.1.40 | Request completed in 821 ms
+2026-11-16 02:01:41 | INFO | api | 10.0.1.40 | Scheduled job finished
+2026-11-16 02:33:24 | INFO | auth | 10.0.2.53 | Request completed in 453 ms
+2026-11-16 02:42:04 | INFO | api | 10.0.5.32 | User session started
+2026-11-16 05:50:09 | WARNING | cache | 10.0.5.53 | High memory usage 85%
+2026-11-16 06:04:17 | INFO | api | 10.0.4.30 | Scheduled job finished
+2026-11-16 06:08:41 | ERROR | database | 10.0.5.32 | Slow query exceeded 2000 ms
+2026-11-16 06:12:47 | INFO | database | 10.0.1.40 | Cache refreshed
+2026-11-16 06:14:03 | INFO | api | 10.0.2.41 | User session started
+2026-11-16 06:25:57 | INFO | cache | 10.0.4.22 | User session started
+2026-11-16 06:34:04 | INFO | database | 10.0.4.30 | Request completed in 624 ms
+2026-11-16 06:56:41 | INFO | api | 10.0.6.42 | Request completed in 267 ms
+2026-11-16 07:01:22 | INFO | payment | 10.0.5.53 | Scheduled job finished
+2026-11-16 07:05:59 | INFO | api | 10.0.5.53 | User session started
+2026-11-16 07:11:03 | INFO | database | 10.0.6.42 | Health check passed
+2026-11-16 07:12:40 | INFO | payment | 10.0.5.43 | Request completed in 60 ms
+2026-11-16 07:13:34 | INFO | database | 10.0.4.30 | Cache refreshed
+2026-11-16 07:18:46 | INFO | api | 10.0.2.58 | Request completed in 39 ms
+2026-11-16 07:30:22 | INFO | api | 10.0.5.32 | User session started
+2026-11-16 07:36:40 | INFO | database | 10.0.2.53 | Scheduled job finished
+2026-11-16 07:42:24 | WARNING | api | 10.0.2.58 | Response time degraded
+2026-11-16 08:00:46 | INFO | api | 10.0.6.42 | Cache refreshed
+2026-11-16 08:05:41 | INFO | auth | 10.0.1.40 | Request completed in 540 ms
+2026-11-16 08:07:10 | ERROR | payment | 10.0.4.22 | Payment callback signature mismatch
+@@##corrupt###
+2026-11-16 08:18:10 | INFO | api | 10.0.5.56 | User session started
+2026-11-16 08:18:42 | INFO | database | 10.0.2.41 | Health check passed
+2026-11-16 08:25:39 | INFO | database | 10.0.4.30 | Cache refreshed
+2026-11-16 08:30:06 | INFO | auth | 10.0.4.57 | User session started
+2026-11-16 08:31:27 | INFO | auth | 10.0.2.58 | User session started
+2026-11-16 08:34:08 | INFO | cache | 10.0.1.51 | User session started
+2026-11-16 08:35:04 | INFO | payment | 10.0.4.30 | Request completed in 396 ms
+2026-11-16 08:57:28 | INFO | api | 10.0.4.57 | Request completed in 388 ms
+2026-11-16 08:58:49 | INFO | payment | 10.0.5.43 | Request completed in 844 ms
+2026-11-16 09:05:56 | INFO | api | 10.0.4.57 | Health check passed
+2026-11-16 09:10:33 | INFO | database | 10.0.5.43 | Scheduled job finished
+2026-11-16 09:17:29 | INFO | database | 10.0.5.56 | Scheduled job finished
+2026-11-16 09:27:16 | ERROR | api | 10.0.5.53 | Rate limit exceeded for client
+2026-11-16 09:32:13 | INFO | api | 10.0.4.30 | Cache refreshed
+2026-11-16 09:35:37 | ERROR | database | 10.0.1.51 | Deadlock detected on orders table
+2026-11-16 09:39:35 | WARNING | payment | 10.0.4.30 | Disk usage above 80%
+2026-11-16 09:46:09 | INFO | payment | 10.0.2.58 | User session started
+2026-11-16 09:49:20 | INFO | payment | 10.0.5.14 | Cache refreshed
+2026-11-16 09:55:17 | INFO | api | 10.0.6.49 | Request completed in 178 ms
+2026-11-16 10:01:12 | WARNING | api | 10.0.5.53 | High memory usage 85%
+2026-11-16 10:01:46 | INFO | auth | 10.0.4.57 | Cache refreshed
+2026-11-16 10:07:15 | WARNING | api | 10.0.5.53 | Disk usage above 80%
+2026-11-16 10:10:04 | INFO | payment | 10.0.5.56 | Request completed in 466 ms
+2026-11-16 10:13:43 | ERROR | database | 10.0.2.53 | Slow query exceeded 2000 ms
+2026-11-16 10:14:25 | INFO | api | 10.0.6.41 | User session started
+2026-11-16 10:15:32 | INFO | auth | 10.0.2.58 | Health check passed
+2026-11-16 10:36:39 | INFO | auth | 10.0.2.7 | User session started
+2026-11-16 10:39:03 | WARNING | api | 10.0.1.4 | High memory usage 85%
+2026-11-16 10:43:30 | ERROR | api | 10.0.5.53 | Request payload validation failed
+2026-11-16 10:49:25 | INFO | payment | 10.0.5.53 | User session started
+2026-11-16 10:51:11 | INFO | auth | 10.0.1.40 | Health check passed
+2026-11-16 11:03:24 | INFO | auth | 10.0.6.49 | Request completed in 667 ms
+2026-11-16 11:03:31 | ERROR | auth | 10.0.1.55 | Session expired for user
+2026-11-16 11:03:54 | INFO | database | 10.0.5.32 | Scheduled job finished
+2026-11-16 11:11:55 | ERROR | api | 10.0.5.43 | Upstream service returned 503
+2026-11-16 11:22:19 | INFO | database | 10.0.1.51 | Scheduled job finished
+2026-11-16 11:27:30 | INFO | database | 10.0.5.53 | Request completed in 482 ms
+2026-11-16 11:31:17 | INFO | auth | 10.0.1.4 | Cache refreshed
+2026-11-16 11:34:30 | INFO | payment | 10.0.2.41 | Request completed in 648 ms
+2026-11-16 11:44:09 | INFO | api | 10.0.5.14 | User session started
+2026-11-16 11:44:57 | INFO | api | 10.0.5.14 | Scheduled job finished
+2026-11-16 11:52:46 | INFO | payment | 10.0.4.30 | Scheduled job finished
+2026-11-16 12:04:26 | ERROR | api | 10.0.6.41 | Request payload validation failed
+2026-11-16 12:04:46 | INFO | cache | 10.0.4.30 | Health check passed
+2026-11-16 12:07:27 | INFO | auth | 10.0.1.40 | Request completed in 180 ms
+2026-11-16 12:18:12 | INFO | api | 10.0.4.57 | Request completed in 296 ms
+2026-11-16 12:39:32 | INFO | auth | 10.0.1.55 | Health check passed
+2026-11-16 12:51:08 | INFO | cache | 10.0.2.58 | Cache refreshed
+2026-11-16 12:59:10 | WARNING | api | 10.0.4.30 | Disk usage above 80%
+2026-11-16 13:02:12 | INFO | cache | 10.0.4.30 | Cache refreshed
+2026-11-16 13:03:19 | INFO | database | 10.0.5.43 | Cache refreshed
+2026-11-16 13:05:50 | INFO | auth | 10.0.4.30 | Health check passed
+2026-11-16 13:08:01 | INFO | api | 10.0.5.6 | Health check passed
+2026-11-16 13:15:47 | INFO | api | 10.0.2.40 | Request completed in 741 ms
+2026-11-16 13:19:55 | ERROR | auth | 10.0.4.21 | Login failed: invalid token
+2026-11-16 13:20:53 | INFO | database | 10.0.5.53 | Request completed in 220 ms
+2026-11-16 13:25:19 | WARNING | api | 10.0.2.41 | Response time degraded
+2026-11-16 13:30:43 | ERROR | auth | 10.0.1.40 | Session expired for user
+2026-11-16 13:32:04 | INFO | payment | 10.0.5.56 | Scheduled job finished
+2026-11-16 13:32:14 | INFO | payment | 10.0.2.53 | Health check passed
+2026-11-16 13:45:14 | INFO | database | 10.0.4.30 | Scheduled job finished
+2026-11-16 13:54:43 | ERROR | cache | 10.0.5.32 | Cache miss ratio above threshold
+2026-11-16 13:56:25 | INFO | auth | 10.0.4.57 | Scheduled job finished
+2026-11-16 14:00:04 | INFO | database | 10.0.4.22 | User session started
+2026-11-16 14:03:36 | INFO | auth | 10.0.4.30 | Scheduled job finished
+2026-11-16 14:09:32 | WARNING | database | 10.0.4.30 | Retrying request
+2026-11-16 14:10:35 | ERROR | payment | 10.0.5.43 | Gateway timeout while charging card
+2026-11-16 14:12:32 | ERROR | cache | 10.0.4.30 | Cache miss ratio above threshold
+2026-11-16 14:17:48 | WARNING | api | 10.0.1.55 | High memory usage 85%
+2026-11-16 14:22:15 | INFO | database | 10.0.5.53 | Scheduled job finished
+2026-11-16 14:34:50 | INFO | cache | 10.0.5.53 | Scheduled job finished
+2026-11-16 14:41:35 | INFO | auth | 10.0.5.56 | User session started
+2026-11-16 14:43:01 | INFO | auth | 10.0.2.41 | Cache refreshed
+2026-11-16 14:44:13 | INFO | database | 10.0.2.40 | Cache refreshed
+2026-11-16 14:45:29 | INFO | api | 10.0.6.49 | User session started
+2026-11-16 14:56:06 | INFO | auth | 10.0.4.21 | Cache refreshed
+2026-11-16 15:01:51 | WARNING | database | 10.0.5.43 | High memory usage 85%
+2026-11-16 15:03:36 | INFO | api | 10.0.5.56 | Request completed in 95 ms
+2026-11-16 15:14:28 | ERROR | cache | 10.0.5.32 | Redis eviction rate high
+2026-11-16 15:15:12 | INFO | api | 10.0.5.56 | Scheduled job finished
+2026-11-16 15:20:13 | ERROR | auth | 10.0.2.41 | Password retry limit reached
+2026-11-16 15:23:53 | INFO | cache | 10.0.5.14 | Health check passed
+2026-11-16 15:25:36 | INFO | database | 10.0.1.55 | Health check passed
+2026-11-16 15:25:53 | WARNING | api | 10.0.2.40 | Response time degraded
+2026-11-16 15:27:34 | INFO | auth | 10.0.2.58 | Scheduled job finished
+2026-11-16 15:30:49 | INFO | api | 10.0.2.40 | Request completed in 400 ms
+2026-11-16 15:33:41 | WARNING | auth | 10.0.5.32 | Disk usage above 80%
+2026-11-16 15:37:34 | WARNING | payment | 10.0.1.40 | Disk usage above 80%
+2026-11-16 15:43:24 | WARNING | auth | 10.0.6.49 | Retrying request
+2026-11-16 15:48:07 | ERROR | auth | 10.0.5.56 | Session expired for user
+2026-11-16 15:49:12 | ERROR | api | 10.0.2.53 | Upstream service returned 503
+2026-11-16 15:53:14 | INFO | database | 10.0.1.40 | Health check passed
+2026-11-16 15:55:01 | ERROR | auth | 10.0.2.53 | Login failed: invalid token
+2026-11-16 15:59:37 | INFO | database | 10.0.5.56 | Cache refreshed
+2026-11-16 16:02:05 | INFO | api | 10.0.2.40 | Scheduled job finished
+2026-11-16 16:05:46 | INFO | database | 10.0.5.56 | Cache refreshed
+2026-11-16 16:17:53 | INFO | api | 10.0.4.21 | Cache refreshed
+2026-11-16 16:22:08 | INFO | payment | 10.0.6.41 | Cache refreshed
+2026-11-16 16:25:56 | WARNING | auth | 10.0.5.14 | High memory usage 85%
+2026-11-16 16:30:12 | INFO | payment | 10.0.4.21 | User session started
+2026-11-16 16:34:08 | INFO | auth | 10.0.2.58 | Cache refreshed
+2026-11-16 16:36:03 | INFO | api | 10.0.1.51 | Request completed in 601 ms
+2026-11-16 16:39:28 | INFO | api | 10.0.5.32 | Request completed in 622 ms
+2026-11-16 16:46:20 | INFO | auth | 10.0.5.53 | User session started
+2026-11-16 16:47:21 | INFO | auth | 10.0.5.32 | User session started
+2026-11-16 16:52:46 | INFO | database | 10.0.1.55 | Request completed in 808 ms
+@@##corrupt###
+2026-11-16 16:56:07 | INFO | payment | 10.0.1.40 | Cache refreshed
+2026-11-16 17:04:35 | INFO | api | 10.0.2.53 | Cache refreshed
+2026-11-16 17:06:53 | INFO | auth | 10.0.4.30 | Health check passed
+2026-11-16 17:11:33 | INFO | auth | 10.0.5.43 | Scheduled job finished
+2026-11-16 17:23:39 | INFO | auth | 10.0.2.7 | Health check passed
+2026-11-16 17:27:47 | WARNING | api | 10.0.2.8 | Response time degraded
+2026-11-16 17:32:48 | WARNING | auth | 10.0.5.56 | Disk usage above 80%
+2026-11-16 17:38:40 | INFO | api | 10.0.2.53 | Scheduled job finished
+2026-11-16 17:39:08 | INFO | auth | 10.0.5.43 | Cache refreshed
+2026-11-16 17:42:45 | INFO | database | 10.0.2.40 | Request completed in 804 ms
+2026-11-16 17:52:10 | INFO | auth | 10.0.4.57 | Health check passed
+2026-11-16 17:55:25 | INFO | auth | 10.0.1.55 | Scheduled job finished
+2026-11-16 18:07:24 | INFO | database | 10.0.2.7 | Request completed in 268 ms
+2026-11-16 18:07:28 | INFO | auth | 10.0.5.56 | Request completed in 664 ms
+2026-11-16 18:12:00 | INFO | payment | 10.0.2.7 | Health check passed
+2026-11-16 18:28:43 | INFO | cache | 10.0.5.6 | User session started
+2026-11-16 18:31:31 | INFO | auth | 10.0.1.55 | User session started
+2026-11-16 18:37:06 | ERROR | payment | 10.0.4.30 | Gateway timeout while charging card
+2026-11-16 18:56:31 | INFO | payment | 10.0.1.40 | Scheduled job finished
+2026-11-16 19:00:32 | ERROR | auth | 10.0.1.4 | Login failed: invalid token
+2026-11-16 19:05:54 | INFO | database | 10.0.6.42 | Cache refreshed
+2026-11-16 19:06:06 | WARNING | api | 10.0.4.30 | Retrying request
+2026-11-16 19:06:19 | WARNING | api | 10.0.4.22 | Disk usage above 80%
+2026-11-16 19:13:23 | INFO | api | 10.0.2.58 | User session started
+2026-11-16 19:19:54 | INFO | api | 10.0.5.14 | Scheduled job finished
+2026-11-16 19:31:01 | WARNING | api | 10.0.4.30 | Response time degraded
+2026-11-16 19:32:07 | INFO | database | 10.0.2.8 | User session started
+2026-11-16 19:41:01 | INFO | payment | 10.0.4.57 | Cache refreshed
+2026-11-16 19:43:56 | INFO | cache | 10.0.5.56 | Scheduled job finished
+2026-11-16 19:47:44 | ERROR | cache | 10.0.5.14 | Redis eviction rate high
+2026-11-16 19:48:10 | INFO | api | 10.0.1.51 | Scheduled job finished
+2026-11-16 19:51:21 | INFO | database | 10.0.2.58 | User session started
+2026-11-16 19:51:27 | INFO | api | 10.0.5.43 | Scheduled job finished
+2026-11-16 19:57:22 | INFO | api | 10.0.1.51 | User session started
+2026-11-16 19:59:53 | ERROR | auth | 10.0.5.32 | Session expired for user
+2026-11-16 20:21:22 | INFO | payment | 10.0.1.51 | Cache refreshed
+2026-11-16 20:24:37 | INFO | payment | 10.0.2.58 | User session started
+2026-11-16 20:29:05 | INFO | database | 10.0.6.42 | User session started
+2026-11-16 20:34:37 | INFO | payment | 10.0.5.6 | Request completed in 317 ms
+2026-11-16 20:57:01 | ERROR | auth | 10.0.2.40 | Password retry limit reached
+2026-11-16 21:21:00 | INFO | auth | 10.0.2.53 | Request completed in 206 ms
+2026-11-16 21:42:42 | INFO | database | 10.0.4.30 | Scheduled job finished
+2026-11-16 21:47:18 | INFO | api | 10.0.6.42 | User session started
+2026-11-16 21:56:50 | INFO | database | 10.0.1.55 | Health check passed
+2026-11-16 22:07:51 | INFO | database | 10.0.5.56 | Health check passed
+2026-11-16 22:15:09 | INFO | payment | 10.0.5.6 | User session started
+2026-11-16 22:22:40 | WARNING | database | 10.0.5.14 | Disk usage above 80%
+2026-11-16 22:38:30 | ERROR | payment | 10.0.5.14 | Gateway timeout while charging card
+2026-11-16 22:39:07 | INFO | database | 10.0.2.53 | Request completed in 476 ms
+2026-11-16 22:57:23 | INFO | database | 10.0.4.30 | Request completed in 503 ms
+2026-11-16 23:10:45 | INFO | auth | 10.0.4.22 | Request completed in 869 ms
